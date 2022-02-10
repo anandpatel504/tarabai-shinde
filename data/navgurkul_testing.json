@@ -1,226 +1,437 @@
 {
   "3c70b815-5b5a-4f67-bbd6-df314a078333": {
-    "Name": "Anand Patel",
-    "Skills": [
+    "Area of expertise/skills": [
       "Backend"
     ],
-    "Association": "Full-time"
+    "Phone no.": "8928181667",
+    "Country": "India",
+    "Email": "anand@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
+    "Association": "Full-time",
+    "Twiter": "https://twitter.com/anandpatel504",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f462099-36f1-4b71-a8d2-b5ce88ef3900/a_dp9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=213becf75fc72da78dfc6b96adef5c8d996915997d293647172a8d5dd66555de&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Anand Patel",
+    "Content": [
+      "Anand is an alumnus of NavGurukul and currently, he is working for Meraki as a backend developer.",
+      "\n",
+      "\n",
+      "\n",
+      "let\u2019s learn",
+      "\n",
+      "Hello navgurukul"
+    ]
   },
   "029301a7-0390-4f62-b0df-948a74af609b": {
-    "Name": "Komal Ahire",
-    "Skills": [
+    "Area of expertise/skills": [
       "Frontend",
       "Web"
     ],
-    "Association": "Full-time"
+    "Phone no.": null,
+    "Country": "India",
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Komal Ahire",
+    "Content": []
   },
   "ad3d9508-ca9e-4163-b070-a534fd717bdd": {
-    "Name": "Poonam Singh Bagh",
-    "Skills": [
+    "Area of expertise/skills": [
       "Frontend",
       "Web"
     ],
-    "Association": "Full-time"
+    "Phone no.": null,
+    "Country": "India",
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Poonam Singh Bagh",
+    "Content": []
   },
   "b0ba61db-ee87-4036-b415-2b672f7b5791": {
-    "Name": "Himanshu",
-    "Skills": [
+    "Area of expertise/skills": [
       "Web",
       "Frontend"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "9654670499",
+    "Country": "India",
+    "Email": "himanshu19@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/himansh-nagar/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Himanshu",
+    "Content": []
   },
   "75751ad2-fbba-401a-af34-328412692d58": {
-    "Name": "Vandanapu Shruthi",
-    "Skills": [
+    "Area of expertise/skills": [
       "Design",
       "user research",
       "User Engagement"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "9908752112",
+    "Country": "India",
+    "Email": "vandanapushruthi@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/shruthi-vandanapu-77186aa7/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Vandanapu Shruthi",
+    "Content": []
   },
   "d8296a49-8446-4c73-b236-1f6b47555425": {
-    "Name": "Rasana Shakya",
-    "Skills": [
+    "Area of expertise/skills": [
       "Design"
     ],
-    "Association": "Volunteer"
+    "Phone no.": null,
+    "Country": "Nepal",
+    "Email": "shakyamuskan57@gmail.com",
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Rasana Shakya",
+    "Content": []
   },
   "9eba7169-7853-4949-b007-8f1f94ab6cf3": {
-    "Name": "Neel",
-    "Skills": [
+    "Area of expertise/skills": [
       "Frontend",
       "Web",
       "Backend"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "9769222514",
+    "Country": "India",
+    "Email": "neelshah.1998@gmail.com",
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Neel",
+    "Content": []
   },
   "24846661-4317-460e-9ac8-5d45b0a56d3b": {
-    "Name": "Mohammed Bilal",
-    "Skills": [
+    "Area of expertise/skills": [
       "User Engagement"
     ],
-    "Association": "Volunteer"
+    "Phone no.": null,
+    "Country": null,
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Mohammed Bilal",
+    "Content": []
   },
   "fc21df73-d097-489f-be22-0cec7e4ae9af": {
-    "Name": "B. Vijayganesh",
-    "Skills": [
+    "Area of expertise/skills": [
       "Outreach",
       "User Engagement",
       "user research"
     ],
-    "Association": "Not Active"
+    "Phone no.": "9463723578",
+    "Country": "India",
+    "Email": "vijayganesh299@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/bvijayganesh/",
+    "Association": "Not Active",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "B. Vijayganesh",
+    "Content": []
   },
   "ed4af68e-7600-411b-8c96-aa63acb9678d": {
-    "Name": "Shubhankar",
-    "Skills": [
+    "Area of expertise/skills": [
       "Curriculum"
     ],
-    "Association": "Volunteer"
+    "Phone no.": null,
+    "Country": null,
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Shubhankar",
+    "Content": []
   },
   "23bb1d5f-af44-4f06-a9a1-dd1675670a7a": {
-    "Name": "Sai",
-    "Skills": [
+    "Area of expertise/skills": [
       "Backend"
     ],
-    "Association": "Volunteer"
+    "Phone no.": null,
+    "Country": null,
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Sai",
+    "Content": []
   },
   "ca8520bc-8938-4c5a-b975-fcb21cd0e5be": {
-    "Name": "Narendra Singh",
-    "Skills": [
+    "Area of expertise/skills": [
       "Design"
     ],
-    "Association": "Full-time"
+    "Phone no.": null,
+    "Country": null,
+    "Email": "narendra@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/narendra4u/",
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Narendra Singh",
+    "Content": []
   },
   "6367acb0-e2f2-4a5d-a7e0-e15615d0ffc2": {
-    "Name": "Nidhi",
-    "Skills": [
+    "Area of expertise/skills": [
       "Spoken English Vol",
       "Onboarding",
       "Outreach"
     ],
-    "Association": "Full-time"
+    "Phone no.": null,
+    "Country": "India",
+    "Email": "nidhi@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/nidhijain1794/",
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Nidhi",
+    "Content": []
   },
   "7b1d7951-ae9c-4311-ac50-82b653184387": {
-    "Name": "Anupama Gahlout",
-    "Skills": [
+    "Area of expertise/skills": [
       "Outreach"
     ],
-    "Association": "Full-time"
+    "Phone no.": null,
+    "Country": null,
+    "Email": "anupama@navgurukul.org",
+    "LinkedIn": null,
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Anupama Gahlout",
+    "Content": []
   },
   "0c490e5d-6123-486b-ae05-466a7f986203": {
-    "Name": "Sindhu Sivakami",
-    "Skills": [
+    "Area of expertise/skills": [
       "Python Programming Vol",
       "Onboarding",
       "Recruitment"
     ],
-    "Association": "Full-time"
+    "Phone no.": "+91-8779017495",
+    "Country": "India",
+    "Email": "sindhu@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/sindhusivakami/",
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Sindhu Sivakami",
+    "Content": []
   },
   "ac75184e-df21-408f-89e7-58c20c429995": {
-    "Name": "Arshiya Ahuja",
-    "Skills": [
+    "Area of expertise/skills": [
       "Web",
       "Product"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "7251865680",
+    "Country": "India",
+    "Email": "arshiyaahuja2004@gmail.com",
+    "LinkedIn": "www.linkedin.com/in/arshiya-ahuja-3b4241136",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Arshiya Ahuja",
+    "Content": []
   },
   "5938ddb5-81a1-42d3-a9a4-7289b6264e46": {
-    "Name": "Abhishek Singh",
-    "Skills": [
+    "Area of expertise/skills": [
       "Android",
       "Product"
     ],
-    "Association": "Full-time"
+    "Phone no.": "+91-8130179770",
+    "Country": "India",
+    "Email": "abhisheksingh@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/abhishek-singh-20546741/",
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8bb56887-e317-419c-8a6f-b04426809151/WhatsApp_Image_2021-03-30_at_12.16.12_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=fa41bb3c854045d7de3aae8298f3f00488658c433d3932b711d4ebc9ff64a796&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Abhishek Singh",
+    "Content": []
   },
   "5c5df7fb-903c-4429-921e-ffdeaef4d017": {
-    "Name": "Divij Berry",
-    "Skills": [
+    "Area of expertise/skills": [
       "Product",
       "user research"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "+91-8437956027",
+    "Country": "India",
+    "Email": "divij.berry1999@gmail.com",
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Divij Berry",
+    "Content": []
   },
   "6994b648-5b9c-4922-811e-9d5baacb07ed": {
-    "Name": "Shringarica Chandel",
-    "Skills": [
+    "Area of expertise/skills": [
       "Android",
       "Design"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "+91-7406075007",
+    "Country": "India",
+    "Email": "shringaricachandel37@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/shringarica-chandel-9a170511a/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Shringarica Chandel",
+    "Content": []
   },
   "98b17205-27fc-4674-95e0-8de285a60db8": {
-    "Name": "Suhaib Roomy",
-    "Skills": [
+    "Area of expertise/skills": [
       "Android"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "9711271104",
+    "Country": "Netherlands",
+    "Email": "suhaibroomy91@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/suhaibroomy/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1c7bd681-d124-4e59-992b-5dba86b8ae26/Image_from_iOS.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=f3fec97e86ec851e8f314cd94a0db11c545f3570365aa13a29d8c9e8126d9f5e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Suhaib Roomy",
+    "Content": []
   },
   "da595578-9252-4ccf-8206-5e00fa98ecaf": {
-    "Name": "Umang Mathur",
-    "Skills": [
+    "Area of expertise/skills": [
       "Product"
     ],
-    "Association": "Volunteer"
+    "Phone no.": null,
+    "Country": "India",
+    "Email": null,
+    "LinkedIn": "https://www.linkedin.com/in/umang-mathur/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/92c6a7f6-8184-4b61-aae5-f59ac696aeae/Profile.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=c09a69bab761959564bcf0b320c5db151cf9de32288ff8925252be27f35458ee&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Umang Mathur",
+    "Content": []
   },
   "e34210b4-f765-42f7-a36d-5ab84661f48a": {
-    "Name": "Anubhuti Agarwal",
-    "Skills": [
+    "Area of expertise/skills": [
       "project management"
     ],
-    "Association": "Volunteer"
+    "Phone no.": null,
+    "Country": "Germany",
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Anubhuti Agarwal",
+    "Content": []
   },
   "0d79dbec-6a11-4510-abae-f1f0fa118f99": {
-    "Name": "Saquib",
-    "Skills": [
+    "Area of expertise/skills": [
       "Backend"
     ],
-    "Association": "Full-time"
+    "Phone no.": null,
+    "Country": "India",
+    "Email": null,
+    "LinkedIn": null,
+    "Association": "Full-time",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Saquib",
+    "Content": []
   },
   "47ce6f2d-c292-4dfc-8c72-41780b75a821": {
-    "Name": "Tarun Dugar",
-    "Skills": [
+    "Area of expertise/skills": [
       "Frontend"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "9711813737",
+    "Country": "India",
+    "Email": "tarundugar1992@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/tarundugar/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bdc65919-2c41-4443-af5e-20c81870d8bd/IMG_20200914_183643_171.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=1550e15df1477811389f6ef78d1ee7feb926437fc7ee8955035eead973606a7c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Tarun Dugar",
+    "Content": []
   },
   "6d02abb1-58b3-45f8-adb2-a02c1b00478d": {
-    "Name": "Shivam Dewan",
-    "Skills": [
+    "Area of expertise/skills": [
       "Product",
       "Design"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "8860264992",
+    "Country": "India",
+    "Email": "shivamdewan08@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/shivamdewan/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/561a0944-f9f5-4cb9-9481-ee7c19c6d6fa/Krati-final.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=1f709aedf2a336f447e93f1927c2138540c953976d6fe5c7264ec830fbd370c3&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Shivam Dewan",
+    "Content": []
   },
   "78ef671e-79ac-4d8d-91e2-96ef243e113f": {
-    "Name": "Sam Khawase",
-    "Skills": [
+    "Area of expertise/skills": [
       "Product",
       "Backend"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "",
+    "Country": "Germany",
+    "Email": null,
+    "LinkedIn": "https://www.linkedin.com/in/samkhawase",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6dcf3874-54f2-4ac0-a395-b5e8c23ac8ba/avatar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=b9cac47b59a7607bc9205b81f8f7267f6fe7fc59e610da45e480fb7b0cd1103b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Sam Khawase",
+    "Content": []
   },
   "7cc2ed77-7fde-4acb-a026-1c93005eaad5": {
-    "Name": "Rakesh Soni",
-    "Skills": [
+    "Area of expertise/skills": [
       "Product",
       "user research",
       "Android"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "+91 7409770606",
+    "Country": "India",
+    "Email": "rakesh.soni1998@gmail.com",
+    "LinkedIn": null,
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": null,
+    "Name": "Rakesh Soni",
+    "Content": []
   },
   "9889fc18-265a-4258-a2da-33ee8c32c578": {
-    "Name": "Abhishek Gupta",
-    "Skills": [
+    "Area of expertise/skills": [
       "Recruitment"
     ],
-    "Association": "Volunteer"
+    "Phone no.": "9958003242",
+    "Country": "India",
+    "Email": "a@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/abhishekgupta92/",
+    "Association": "Volunteer",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9f2e2da6-8f91-4fb7-ad32-aa4a7ed4f278/ProfilePicture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=fb32ff5d40f5ac89cce27447c3f6b885a50b6c369e5e0cecdf88479166a66d09&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Abhishek Gupta",
+    "Content": []
   },
   "f8ea3ce3-3bca-473d-ac9a-d60da8d5e0fc": {
-    "Name": "Noopur Varma",
-    "Skills": [
+    "Area of expertise/skills": [
       "Design"
     ],
-    "Association": "Not Active"
+    "Phone no.": null,
+    "Country": "India",
+    "Email": "noopur@navgurukul.org",
+    "LinkedIn": "https://www.linkedin.com/in/noopurvarma/?originalSubdomain=in",
+    "Association": "Not Active",
+    "Twiter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e656b157-222d-4523-a566-91d6a46906b2/2021-01-16_20.08.35.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220210T035502Z&X-Amz-Expires=3600&X-Amz-Signature=f51acfe0c9383bf6b8de2f8e75a137156b79d2fb197388d3846c560775d1fb2d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Noopur Varma",
+    "Content": []
   }
 }
