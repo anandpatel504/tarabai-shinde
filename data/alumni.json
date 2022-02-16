@@ -55,7 +55,7 @@
     "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/anandpatel504",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9ca8fbf-4889-416f-a51e-8276ff7e7d89/anandsmallsize1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T092413Z&X-Amz-Expires=3600&X-Amz-Signature=91dfe918ad69094c02e6e76112443161b4c74a4dcd2669799fe721c4df65b742&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9ca8fbf-4889-416f-a51e-8276ff7e7d89/anandsmallsize1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220216T093424Z&X-Amz-Expires=3600&X-Amz-Signature=7337cbec57630aaf19009234a7fa1b34d71ab25b027b7be29239c737137c756d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anand Patel",
     "Content": []
   },
@@ -102,6 +102,8 @@
     "Twitter": null,
     "Photo": null,
     "Name": "Poonam Bagh",
-    "Content": []
+    "Content": [
+      "About to complete a year as a frontend web developer in Navgurukul, pursuing BA final year and BCA first year."
+    ]
   }
 }
