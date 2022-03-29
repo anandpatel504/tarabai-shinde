@@ -44,7 +44,7 @@ def format_row(row, page_fields):
         elif row[r]['type'] == "url":
             result[r] = row[r]['url']
         elif row[r]['type'] == "files":
-            result[r] = row[r]['files'][0]['file']['url'] if len(row[r]['files']) > 0 else None
+            result[r] = row[r]['files'][0]['file']['url'] if len(row[r]['files']) ==1 else None if len(row[r]['files']) ==0 else list(map(lambda x: x['file']['url'],row[r]['files']))
         elif row[r]['type'] == 'created_time':
             result[r] = row[r]['created_time'] if ['created_time'] else None
     return result
