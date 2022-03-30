@@ -6,6 +6,7 @@
     "Designation": null,
     "Country": null,
     "Email": null,
+    "Bio": null,
     "LinkedIn": null,
     "Association": null,
     "Twitter": null,
@@ -22,6 +23,7 @@
     "Designation": null,
     "Country": "India",
     "Email": null,
+    "Bio": null,
     "LinkedIn": "https://www.linkedin.com/in/komal-bhatt-a1779716a/",
     "Association": "Full-time",
     "Twitter": null,
@@ -38,10 +40,11 @@
     "Designation": null,
     "Country": "India",
     "Email": null,
+    "Bio": null,
     "LinkedIn": "https://www.linkedin.com/in/saquibnasim/",
     "Association": "Contract",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T091815Z&X-Amz-Expires=3600&X-Amz-Signature=1a7ed02ecedaeae47e0c113fe113124581f2f8429b32ccc4c6bfde1d7061a310&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T093250Z&X-Amz-Expires=3600&X-Amz-Signature=e1690a64e92460adc27e28e6b89c50fc5ce909d9f69f0f6b44d7bd39775e2414&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Saquib Nasim",
     "Content": []
   },
@@ -54,6 +57,7 @@
     "Designation": null,
     "Country": "India",
     "Email": null,
+    "Bio": null,
     "LinkedIn": null,
     "Association": "Full-time",
     "Twitter": null,
@@ -70,12 +74,15 @@
     "Designation": "\ud835\udc01\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1e\ud835\udc27\ud835\udc1d-\ud835\udc1d\ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b",
     "Country": "India",
     "Email": "anand@navgurukul.org",
+    "Bio": "\u201cI can not do everything, but I can do something. I must not fail to do something that I can do.\u201d - Helen Keller",
     "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/anandpatel504",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/965dff65-2b16-40bd-aea7-ab606af52542/IMG_20220126_105810_Bokeh__01__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T091815Z&X-Amz-Expires=3600&X-Amz-Signature=9cf070bfaad87e7b35ef9d7822a4dde4de3f9ff4ed5d08efc70b9ad62b04c8f2&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/965dff65-2b16-40bd-aea7-ab606af52542/IMG_20220126_105810_Bokeh__01__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T093250Z&X-Amz-Expires=3600&X-Amz-Signature=4205a5e9ff0be92c18f9ea32f2e0f3a5f4e438296525cd67055620a442797795&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anand Patel",
-    "Content": []
+    "Content": [
+      "\u201cI can not do everything, but I can do something. I must not fail to do something that I can do.\u201d - Helen Keller"
+    ]
   },
   "0c9650ab-cc9b-4bba-90d0-e1bece2f4970": {
     "Area of expertise/skills": [
@@ -86,6 +93,7 @@
     "Designation": null,
     "Country": "India",
     "Email": null,
+    "Bio": null,
     "LinkedIn": null,
     "Association": "Full-time",
     "Twitter": null,
@@ -102,10 +110,11 @@
     "Designation": "Frontend Developer",
     "Country": "India",
     "Email": "komala@navgururukul.org",
+    "Bio": null,
     "LinkedIn": "https://www.linkedin.com/in/komal-ahire-b34009182/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T091815Z&X-Amz-Expires=3600&X-Amz-Signature=43f1d1bcfa2e621e4e60ae77b722b4aeb76456c99e9b527dfdfef51032f932c6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T093250Z&X-Amz-Expires=3600&X-Amz-Signature=034886b4b70b165d5d461d0458113f359160ac2aed172236c7dd158286df2794&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Komal Ahire",
     "Content": []
   },
@@ -118,10 +127,11 @@
     "Designation": "Frontend Developer",
     "Country": "India",
     "Email": "poonambagh98@gmail.com",
+    "Bio": null,
     "LinkedIn": "https://www.linkedin.com/in/poonam-bagh/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T091815Z&X-Amz-Expires=3600&X-Amz-Signature=3df6ed5624f3f5182c3fcc4163ed052710bdd8f4b8f52af4e5e325f637e79a2c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220330T093250Z&X-Amz-Expires=3600&X-Amz-Signature=bc97b32bae14c40329d1c4a5431c4ebeb0217f6608bbd45d1a73691cc5b50a7c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Poonam Bagh",
     "Content": [
       "Working for a year as a frontend web developer in Navgurukul, pursuing BA final year and BCA first year. Learning Backend."
