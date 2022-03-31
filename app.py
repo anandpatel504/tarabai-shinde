@@ -8,14 +8,14 @@ Return : records    : Rows of the navgurkul database in Notion
                     : {properties : field : {}}
 '''
 def get_navgurkul_records(DB_ID):
-    all_records_resp = requests.post( f'https://api.notion.com/v1/databases/{DB_ID}/query', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION } )
+    all_records_resp = requests.post( f'https://api.notion.com/v1/databases/{DB_ID}/query', headers={ 'Authorization' : NAVGURUKUL_NOTION_TOKEN,  'Notion-Version' : NAVGURUKUL_NOTION_VERSION } )
     if all_records_resp.status_code == 200 :
         return all_records_resp.json()
     else :
         return {'Error' : all_records_resp.headers}
 
 def get_notion_fields(DB_ID):
-    all_fields = requests.get( f'https://api.notion.com/v1/databases/{DB_ID}', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION } )
+    all_fields = requests.get( f'https://api.notion.com/v1/databases/{DB_ID}', headers={ 'Authorization' : NAVGURUKUL_NOTION_TOKEN,  'Notion-Version' : NAVGURUKUL_NOTION_VERSION } )
     fields = {}
     for row in all_fields.json()['properties']:
         fields[row] = None
@@ -51,7 +51,7 @@ def format_row(row, page_fields):
 
 def formate_paragraph(id):
     content = []
-    record_description = requests.get( f'https://api.notion.com/v1/blocks/{id}/children', headers={ 'Authorization' : NOTION_TOKEN,  'Notion-Version' : NOTION_VERSION })
+    record_description = requests.get( f'https://api.notion.com/v1/blocks/{id}/children', headers={ 'Authorization' : NAVGURUKUL_NOTION_TOKEN,  'Notion-Version' : NAVGURUKUL_NOTION_VERSION })
     for block in record_description.json()['results']:
         if block['type'] == 'paragraph':
             content.append(block['paragraph']['text'][0]['plain_text'] if len(block['paragraph']['text']) > 0 else '\n')
@@ -93,8 +93,8 @@ def get_data_from_notion_db(DB_ID, file_name):
 if __name__ == '__main__':
     try:
         load_dotenv()
-        NOTION_TOKEN = os.environ.get('NOTION_TOKEN')
-        NOTION_VERSION = os.environ.get('NOTION_VERSION')
+        NAVGURUKUL_NOTION_TOKEN = os.environ.get('NAVGURUKUL_NOTION_TOKEN')
+        NAVGURUKUL_NOTION_VERSION = os.environ.get('NAVGURUKUL_NOTION_VERSION')
         NAVGURUKUL_DB_ID_MERAKI_TEAM = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_TEAM')
         NAVGURUKUL_DB_ID_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_PARTNERS')
         NAVGURUKUL_DB_ID_NG_TEAM = os.environ.get('NAVGURUKUL_DB_ID_NG_TEAM')
@@ -106,7 +106,7 @@ if __name__ == '__main__':
         NAVGURUKUL_DB_ID_CAMPUSES = os.environ.get('NAVGURUKUL_DB_ID_CAMPUSES')
         NAVGURUKUL_DB_ID_MERAKI_PARTNERS = os.environ.get('NAVGURUKUL_DB_ID_MERAKI_PARTNERS')
 
-        # print(NOTION_TOKEN, NOTION_VERSION,NAVGURUKUL_DB_ID_MERAKI_TEAM, NAVGURUKUL_DB_ID_PARTNERS, NAVGURUKUL_DB_ID_NG_TEAM)
+        # print(NAVGURUKUL_NOTION_TOKEN, NAVGURUKUL_NOTION_VERSION,NAVGURUKUL_DB_ID_MERAKI_TEAM, NAVGURUKUL_DB_ID_PARTNERS, NAVGURUKUL_DB_ID_NG_TEAM)
         get_data_from_notion_db(NAVGURUKUL_DB_ID_MERAKI_TEAM, "meraki_team")
         get_data_from_notion_db(NAVGURUKUL_DB_ID_PARTNERS, "partners")
         get_data_from_notion_db(NAVGURUKUL_DB_ID_NG_TEAM, "ng_team")
