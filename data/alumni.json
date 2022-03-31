@@ -1,11 +1,13 @@
 {
   "9b2b3f38-64fa-4f7e-814f-57e400ec6b3e": {
-    "Area of expertise/skills": [],
-    "Company Name": null,
+    "Area of expertise/skills": [
+      "Data Lead"
+    ],
+    "Company Name": "NavGurukul",
     "Phone no.": null,
-    "Designation": null,
-    "Country": null,
-    "Email": null,
+    "Designation": "Management Trainee",
+    "Country": "India",
+    "Email": "pooja@navgurukul.org",
     "Bio": null,
     "LinkedIn": null,
     "Association": null,
@@ -44,7 +46,7 @@
     "LinkedIn": "https://www.linkedin.com/in/saquibnasim/",
     "Association": "Contract",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053026Z&X-Amz-Expires=3600&X-Amz-Signature=c12821944db6721d97a29ca70a0e4c2d0bf7e3aa99db6baac1747d61e118601e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053931Z&X-Amz-Expires=3600&X-Amz-Signature=ff44b43b8e4986d0cb017d071113c01d4fa5a44fc5d4288cc5f513cbe907ea65&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Saquib Nasim",
     "Content": []
   },
@@ -78,7 +80,7 @@
     "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/anandpatel504",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/965dff65-2b16-40bd-aea7-ab606af52542/IMG_20220126_105810_Bokeh__01__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053026Z&X-Amz-Expires=3600&X-Amz-Signature=43f61b9aa40caaf3fbb236252f47a1d96bc43cf3aff61bb647d46a6332de1925&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/965dff65-2b16-40bd-aea7-ab606af52542/IMG_20220126_105810_Bokeh__01__01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053931Z&X-Amz-Expires=3600&X-Amz-Signature=28f68a60caeb060bf7daee3140420bc9d291499a96acd7616f0ae8270b85f0c6&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anand Patel",
     "Content": [
       "\u201cI can not do everything, but I can do something. I must not fail to do something that I can do.\u201d - Helen Keller"
@@ -114,7 +116,7 @@
     "LinkedIn": "https://www.linkedin.com/in/komal-ahire-b34009182/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053026Z&X-Amz-Expires=3600&X-Amz-Signature=60cc8348b2db85186b7eee4ccbb100f3c036fcf4431a9a4ad400efdba0b610e1&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053931Z&X-Amz-Expires=3600&X-Amz-Signature=8351a35c8a657ca4592cad7bb9ae3c8bab5114211d86bf8b204749e03c87634d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Komal Ahire",
     "Content": []
   },
@@ -131,7 +133,7 @@
     "LinkedIn": "https://www.linkedin.com/in/poonam-bagh/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053026Z&X-Amz-Expires=3600&X-Amz-Signature=bfe852c3e1b8ab6ef2288b59461f438cd7dd855e0a27c7b7c825049b4934440c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220331%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220331T053931Z&X-Amz-Expires=3600&X-Amz-Signature=8f139959d88704ef5a8e27696af56f297fd88762b33601ae8de38a62c7d25bdd&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Poonam Bagh",
     "Content": [
       "Working for a year as a frontend web developer in Navgurukul, pursuing BA final year and BCA first year. Learning Backend."
