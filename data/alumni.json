@@ -1,18 +1,367 @@
 {
-  "278114cb-8342-4580-a493-6b8f20c3d274": {
-    "Area of expertise/skills": [],
+  "26d65584-09ef-4336-aae7-bb9a6ded5029": {
+    "Area of expertise/skills": [
+      "Android"
+    ],
     "Property": null,
-    "Company Name": null,
+    "Company Name": "BSD Technologies",
     "Phone no.": null,
-    "Designation": null,
-    "Country": null,
+    "Designation": "Andriod developer",
+    "Country": "India",
     "Email": null,
-    "Bio": null,
-    "LinkedIn": null,
-    "Association": null,
+    "Bio": "Rahul Kashyap working in Bsd Technology as a android developer and have great experience in developing mobile application.",
+    "LinkedIn": "https://www.linkedin.com/in/rahul7042/",
+    "Association": "Full-time",
     "Twitter": null,
     "Photo": null,
-    "Name": "",
+    "Name": "Rahul Kashyap",
+    "Content": []
+  },
+  "8ab40514-779a-4efe-a1ca-67e8cafd2697": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Bsd technology",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "He belongs to a low-income family and he has completed Intermediate then joined navgurukul. Now he is working as a python developer in Bsd technology. Aman likes to play Cricket.",
+    "LinkedIn": "https://www.linkedin.com/in/aman-jha-815532168/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be59a9b8-dc3e-4b40-9160-412056a47511/Aman-jha.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=75806bc06fbd8f0698c8d630a402f9b6f7a33dee20f10dd2a79b5936d8ff2d05&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Aman Jha",
+    "Content": []
+  },
+  "732ad74f-ddde-46d5-8a2a-4fbd0b168c9c": {
+    "Area of expertise/skills": [
+      "Backend",
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "E-unimart",
+    "Phone no.": null,
+    "Designation": "NodeJS developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "She completed BSc from Vikram university ujjain. right now working as software developer in E-unimart hyderabad.",
+    "LinkedIn": "https://www.linkedin.com/in/sonam-kumawat-906685182/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b330259c-8402-4da9-bb0d-ee4a91da3a20/sonam-kumawat.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=c536a9df5d7bb5e0cffdf3be22feb88122ad2a45b2e2745037dad282acc4e9a4&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Sonam Kumawat",
+    "Content": []
+  },
+  "d146a328-aab5-4eee-8b46-07c1d9babbe8": {
+    "Area of expertise/skills": [
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "FTwo",
+    "Phone no.": null,
+    "Designation": "fronted developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Naresh (10th pass) hails from Delhi and is currently working in Gurgaon. Interested in sports and Art and craft.",
+    "LinkedIn": "https://www.linkedin.com/in/naresh-kumar-gautam-1222b7183/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7196e56f-49e9-429a-b8f0-ebd3a0299f67/naresh-gautam.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=1ed840356e2c1445c88a7113d7496046f86600c8d937455aa3311bae3b730dcd&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Naresh Kumar Gautam",
+    "Content": []
+  },
+  "7696d03e-4e2e-4556-9717-04c8128b1a8d": {
+    "Area of expertise/skills": [
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "Momspresso",
+    "Phone no.": null,
+    "Designation": "fronted developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Rani is currently working as a React Developer in Gurgaon. Barely 18, Rani's father work as a mason but have always inspired her to work harder towards her aspirations",
+    "LinkedIn": "https://www.linkedin.com/in/rani-pandit-108102158/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e71a40c-835d-4185-a3db-ad121b8c0119/rani-pandit.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=f3d420ccfec158b32fc713f0cecdd1f12093790cc7efc7482fc76e8b0b979f0f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Rani Pandit",
+    "Content": []
+  },
+  "2fb39b65-5fa6-46e8-a92f-e3074077994c": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Repup",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Anoop Gupta completed his graduation from Kanpur University. he started his journey as a programmer from NavGurukul. He is working in Repup(Gurgaon) as a Software Developer",
+    "LinkedIn": "https://www.linkedin.com/in/anoop-gupta-576536168/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fd3d859a-552a-49b6-ac22-5cee8de82ca1/anoop-gupta.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=15b71327000805d3c851dc3ba4e968a5443b7e6db21e228debb99b6b8541e796&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Anoop Gupta",
+    "Content": []
+  },
+  "9e37c105-63d8-4e69-b172-733de19275a0": {
+    "Area of expertise/skills": [
+      "Curriculum"
+    ],
+    "Property": null,
+    "Company Name": "WhiteHat Jr",
+    "Phone no.": null,
+    "Designation": "curriculum designer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Vishal Gaddam completed his graduation in ",
+    "LinkedIn": "https://www.linkedin.com/in/vishal-gaddam-7a20b1178/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c6754028-8d8d-4765-84ae-9745247c3a2d/vishal-gaddam.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=af75fa54f9990abb515fa2fa9adffe74d66a4406748ae1ad9f15688e0557295d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Vishal Gaddam",
+    "Content": []
+  },
+  "76d8990c-31fa-46bb-8b16-c80f2af130b5": {
+    "Area of expertise/skills": [
+      "Backend",
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "FTwo",
+    "Phone no.": null,
+    "Designation": "fullstack developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Khushboo was the youngest girl to join NavGurukul (at 16). She is currently working as a react developer but can code full-stack. Her dad works as a cleaner in Gurgaon while she finished her schooling with the help of Neev Foundation.",
+    "LinkedIn": "https://www.linkedin.com/in/khushboopandit/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9bff92ee-bfa6-4b9e-a22d-9d311df47405/khushboo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=94c5c7820a20d2f9c9bef4c1baf4fd2502962ccef4f6f04d7a1ac2018395b0a6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Khushboo Pandit",
+    "Content": []
+  },
+  "9c85ef1d-7237-4bb0-92dc-9100a20d67c6": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "GamingMonk",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Shivam (12th pass) was working as a helper at a local bakery and then at a call center. He is now working as a Software Developer at GamingMonk, Delhi.",
+    "LinkedIn": "http://linkedin.com/in/shivam-raj-0a540b133",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/86641ccf-7e23-4094-84f7-678579e74345/shivam.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=eb7f4fe1a833b1e154fc78c601ca98d73411d6e58cdb22a0068581298cfa9ca7&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Shivam Raj",
+    "Content": []
+  },
+  "dde8315f-0111-4a4e-b97c-abee715bc876": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "SAFAL Solutions",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Sunil has passed his 12th class last year. He was not able to took admission in collage because of his less marks. Then he joined Navgurukul. Now he is working as a java developer at Safal Solutions, Hyderabad",
+    "LinkedIn": "https://www.linkedin.com/in/sunil-parcha-58a6a2182",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e97d73ee-793a-4bc3-94bf-19f700630c22/sunil.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=c41a7d485c7b581830ddde31badaceab943928cc45d491f91da65c23786f434a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Sunil",
+    "Content": []
+  },
+  "e4611ffb-6cfd-497a-943f-8a24f40feb4f": {
+    "Area of expertise/skills": [
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "Mindtree",
+    "Phone no.": null,
+    "Designation": "fronted developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Kajal an 18 year old girl, who just finished her tenth class, with less than 6 months of training at Navgurukul - is now working at Mindtree. Based out of Delhi, her father is a rickshaw puller and mother a domestic cook in Delhi.",
+    "LinkedIn": "http://linkedin.com/in/kajal-ahirwal-41042b175",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b4759281-f763-4eb0-af37-410ffd72fb19/kajal-ahirwal.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=0a1157c25ecff5668b42db656fb27f654b8f0fa48a5dcb28fc7b4d15a2028e2e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Kajal Ahirwal",
+    "Content": []
+  },
+  "4fc0d697-3aab-4a0d-a113-9c1457a99f6d": {
+    "Area of expertise/skills": [
+      "Backend",
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "Safal Solutions",
+    "Phone no.": null,
+    "Designation": "fronted developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Aman Sharma Completed his 12th from MP(Bord). he started his journey on july 2018 and now he is working in safal solution as a PHP Developer.",
+    "LinkedIn": "https://www.linkedin.com/in/aman-sharma-52aa38184/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb2124a5-97ea-47b6-a0b3-65f096077f4e/aman-sharma.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=4face625869c0f8f02ad5911abe1b3b2e00ec8f9f844ddad9f791ee9241911ea&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Aman Sharma",
+    "Content": []
+  },
+  "7490006d-705d-470b-8506-aa2c1f79ee0d": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Mindtree",
+    "Phone no.": null,
+    "Designation": "node,js  developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Annu hailing from Kishanganj, Bihar is working at Mindtree. Living in a village she barely had access to good education. Now she wishes to establish another Navgurukul in her own village.",
+    "LinkedIn": "http://linkedin.com/in/annu-bharti-6a60bb158",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fdbf165b-d9d3-49ef-813a-624151626f6d/annu-bharti.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=11345d0c63ed6bdf7a103d5b171c304ef1ebdd75575f1b1168db9faefc28daf3&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Annu Bharti",
+    "Content": []
+  },
+  "5256bc28-6d8c-4871-942a-96f37a7992d7": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Codeyug",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Nitin was helping out his father at their recharge shop after finishing his class 12th. Now he works for CodeYug, Delhi as a Software Developer.",
+    "LinkedIn": "http://linkedin.com/in/nitingupta220",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0491ec4-8812-4c68-8b58-a6d1bf149c78/nitin-gupta.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=63f6ff26d77c50685d8527ac6d34afb6aa4c39c139cde0438888fe0870e9e13c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Nitin Gupta",
+    "Content": []
+  },
+  "993fe959-151a-4f19-93b5-c3b8afa83858": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Mindtree",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Diwakar belongs to a low-income family where his father is the only earning person and drives a car for a private company. He joined Navgurukul after finishing his schooling from a Delhi Government school in August 2017 after struggling a lot to get admission in a good college. Finally, his hard work and dedication paid off and he is now working at MindTree as a software developer.",
+    "LinkedIn": "https://www.linkedin.com/in/diwakar-prasad-a47a34150",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/06fb1c0f-1b3a-43cf-ac76-d2e2a60749c7/diwakar-prasad.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=fa794889879f824408593156110e7f98d31e90ff46a1d68fb62b35d8086878d5&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Diwakar Prasad",
+    "Content": []
+  },
+  "c853ef12-9b69-4901-adad-57dd6415f5b2": {
+    "Area of expertise/skills": [
+      "Backend",
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "Thoughtworks",
+    "Phone no.": null,
+    "Designation": "fullstack developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Amar's dad runs a small shop in Guwahati, making college an unafforable option for him. He joined NavGurukul to learn at his own terms, and is currently a full-stack developer - Javascript, Java and Python being primary language of his interest.",
+    "LinkedIn": "http://linkedin.com/in/amar-sinha-5530b1158",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edd7a385-4f70-43a9-94fe-51331fcc05de/amar-sinha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=bbc13f2e12dfb609d5bb7a1e250d09118f1a009c387df8c033a8cbbc1d036c07&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Amar Sinha",
+    "Content": []
+  },
+  "ddb5d925-1eca-4693-b9a8-099b95bec84d": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Mahiti Infotech",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Jai has passed his 12th and He is from Delhi, now working as a Python developer in Mahiti Infotech, Bangalore. Interested in social welfare and intracting with new peoples.",
+    "LinkedIn": "https://www.linkedin.com/in/jai-dev-84a8b2157/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2bc16816-c647-4635-927c-fc6c0f612b3e/jai.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=9f720f98b9639b5d4fce083ea0e702f287829e0de133ab2a12d5bc7bd90ec91f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Jai Kishan",
+    "Content": []
+  },
+  "c98a3489-c9c9-4705-a8df-57c47d367f46": {
+    "Area of expertise/skills": [
+      "Backend",
+      "Frontend"
+    ],
+    "Property": null,
+    "Company Name": "Appscrip",
+    "Phone no.": null,
+    "Designation": "Fullstack developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "Jagan is from Pilibhit, Uttar Pradesh. He completed his 12th and joined Navgurukul. He started his programming journey at Navgurukul and today he is financially supporting his family. He is working as a full stack web developer at Appscrip, Bengaluru. Currently working with Reactjs, Angularjs, and Nodejs\u201d",
+    "LinkedIn": "https://www.linkedin.com/in/jagannath-swarnkar-906664170/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5c0ddbc8-85d9-4865-8604-f89923d65fc5/jagan.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=842147923d03a5c79bf77319cc46693ddf81efc4ff6222fec9ec146ce63448b1&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Jagannath Swarnkar",
+    "Content": []
+  },
+  "a7d58082-b42a-4410-acd3-ef763a70d952": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "Mahiti Infotech",
+    "Phone no.": null,
+    "Designation": "python developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "He is from Uttarakhand,Dehradun. His father is a watchmen and the only earning member of his family. In order to support his family's financial needs after completing his class 12th, he joined Navgurkul and currently working as a python developer in Mahiti Infotech,Bengalore",
+    "LinkedIn": "https://www.linkedin.com/in/anurag-rawat-79a541168/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d6ee47f5-2e78-470e-a2e0-2b065617e23f/anurag.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=e78fe97c622f99d0af674e95591f91faa9de4639cbdae2d1c5c1039aaf1ea63c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Anurag Rawat",
+    "Content": []
+  },
+  "278114cb-8342-4580-a493-6b8f20c3d274": {
+    "Area of expertise/skills": [
+      "Backend"
+    ],
+    "Property": null,
+    "Company Name": "SmallWorld Digital Services",
+    "Phone no.": null,
+    "Designation": "Tester and NodeJS developer",
+    "Country": "India",
+    "Email": null,
+    "Bio": "She is from Delhi. Her father works as a shopkeeper and her mom as a maid, however, she aspire to become a Software Engineer and make her family proud.",
+    "LinkedIn": "https://www.linkedin.com/in/ankita-gole-6570bb158/",
+    "Association": "Full-time",
+    "Twitter": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b35b336a-e598-43fb-9d05-045c59d72f79/ankita.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=a3010debdb04afb13ba65e957217082e9012940d2b9b99e05d31fe62b2040f14&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Name": "Ankita Gole",
     "Content": []
   },
   "17a246e7-8108-4c92-b779-0f65c17ce91d": {
@@ -30,7 +379,7 @@
     "LinkedIn": "https://www.linkedin.com/in/pratik-coder/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d1199ab0-4dd8-4d6a-9c22-7d78902155b0/pratik.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=27d7a0ca584c053b0c65ab025103642480d1ec99985b918e5008e3bacc897fb6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d1199ab0-4dd8-4d6a-9c22-7d78902155b0/pratik.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=797a8bc5ecbdd7cd015dd1cb999eeb802489df9f7f177cee09e9ba87ee20117f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Pratik Deshmuk",
     "Content": [
       "This is Pratik Deshmukh from Maharashtra, working as a senior software engineer in leapclub.in at the age of 17, I took my childhood as an opportunity to explore multiple roads in life. I went to Navgurukul, Himachal for pursuing the software programming course and here they made my fell in love with coding.",
@@ -51,7 +400,7 @@
     "LinkedIn": "https://www.linkedin.com/in/iamanmolmehra/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/iamanmolmehra",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cc9175bc-cc6d-4e05-b72f-afceed1d5e1b/anmol.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=ec4a25c92d91232feb2ebd26265e3aa8e77d47bb2e4f1bce35b17553605af780&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cc9175bc-cc6d-4e05-b72f-afceed1d5e1b/anmol.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=04cb0dafbe663f9983a450f8469edf8f86087644484c1d4f71692cf9d14bd384&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anmol Mehra",
     "Content": [
       "I, Anmol Mehra located in Gurugram, recently hired by Cactus Global as a Software Engineer. I took lockdown as an opportunity, I decided to do a year-long residential software programming course and went to Navgurukul, Himachal Pradesh during the lockdown. In",
@@ -72,7 +421,7 @@
     "LinkedIn": "https://www.linkedin.com/in/pooja-mahanor-9a0021182/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/MahanorPooja",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/093612bb-0b5b-4b1b-b7d4-8bc604fc56c9/Screenshot_from_2022-05-17_14-18-32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=f8518400050f4510baf5db7d061ba45ebda0309e47f4fea6efe25d6c6f5efe3b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/093612bb-0b5b-4b1b-b7d4-8bc604fc56c9/Screenshot_from_2022-05-17_14-18-32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=fbe4904e2433bda040fff8313772816cb63ac09d79a7263fb89a69ce1d5ff016&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Pooja Mahanor",
     "Content": [
       "I belong to a Middle-class family, my mother is a housewife, I wish to pursue a career which not only takes care of our financial needs but also makes them proud. About to complete a year as a Data Lead in NavGurukul.",
@@ -93,7 +442,7 @@
     "LinkedIn": "https://www.linkedin.com/in/komal-bhatt-a1779716a/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": null,
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e728a2c2-3fd4-448c-8abc-d5700f867ef8/komal-bhatt.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=10039ee69755b7791b3a12ad953b01d0d1f6c0a020381e997ad39dde82148816&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Komal Bhatt",
     "Content": []
   },
@@ -111,7 +460,7 @@
     "LinkedIn": "https://www.linkedin.com/in/saquibnasim/",
     "Association": "Contract",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=dc3c3f65451ca085bb0b5779e90fda6f8ed96d496f0bc7c08742ce18c241efc5&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/210a3ca4-e0ac-430f-b994-e0a8dc211449/Screenshot_from_2022-02-23_16-02-53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=3e5ce22dc30aabf4664b6cdeaf7a9a8903947c0d5c4afbc698c517c2a74fc83f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Saquib Nasim",
     "Content": [
       "Software Engineer at Prismo Systems"
@@ -149,7 +498,7 @@
     "LinkedIn": "https://www.linkedin.com/in/anandpatel504/",
     "Association": "Full-time",
     "Twitter": "https://twitter.com/anandpatel504",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/46ef3ad5-d7b2-4097-8561-1c696e5ef2d1/Anand.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=30d23ebdfbbcdd73acd0b899b6189533c24320b02ead496c4f952fd1125a46ad&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/46ef3ad5-d7b2-4097-8561-1c696e5ef2d1/Anand.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=70a3c50ef245e755fe310c562d5eff6ee1f426165e09235e0d06481144926986&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Anand Patel",
     "Content": [
       "\u201cI can not do everything, but I can do something. I must not fail to do something that I can do.\u201d - Helen Keller"
@@ -187,7 +536,7 @@
     "LinkedIn": "https://www.linkedin.com/in/komal-ahire-b34009182/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=bda4fdf4b7915b50336e5ffe2e105a633da3d6fa381aa373d6889a545001995c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4657d4a-c330-4080-8736-49fd12e0e257/WhatsApp_Image_2022-03-07_at_2.39.47_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=0f1847d7de68a4a4142b9f827c8d934fab9c52303e6eef283018a2470432c6d0&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Komal Ahire",
     "Content": []
   },
@@ -205,7 +554,7 @@
     "LinkedIn": "https://www.linkedin.com/in/poonam-bagh/",
     "Association": "Full-time",
     "Twitter": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220517T115719Z&X-Amz-Expires=3600&X-Amz-Signature=5540a7ed3da4ab95d8164bf226c978c908b6ecb22759559938b03ac36b170ca8&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9062657-de10-479c-bd61-b63a343562fe/WhatsApp_Image_2022-02-23_at_4.06.25_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220518%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220518T065511Z&X-Amz-Expires=3600&X-Amz-Signature=a0a54d6d00fda37b2d7884eb2a3c6b3b6b5987930a4d9f5585319f7e5e8187b1&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Name": "Poonam Bagh",
     "Content": [
       "Working for a year as a frontend web developer in Navgurukul, pursuing BA final year and BCA first year. Learning Backend."
