@@ -1,8 +1,18 @@
 {
+  "73890179-583b-4150-bd68-c6c44ee68904": {
+    "Created": "2022-09-24T09:31:00.000Z",
+    "Twitter": null,
+    "Logo": null,
+    "Type": null,
+    "Website": null,
+    "LinkedIn": null,
+    "Name": "",
+    "Content": []
+  },
   "7426fd63-30ef-4ba2-b386-f5cd11278c7f": {
     "Created": "2022-02-09T11:53:00.000Z",
     "Twitter": null,
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f1bd992a-8d37-430c-aef5-3d3759685805/gmr.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=a29f9b405df4a89043ece3d48cd43158a2eb5ba3bccc0e3d3d5b30bd669cd933&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f1bd992a-8d37-430c-aef5-3d3759685805/gmr.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=790b50fce148de4c30eb103c81eaebdb2206ed01bca8fbc0ad5f10bb8ed33433&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "https://gmrvf.gmrgroup.in/",
     "LinkedIn": null,
@@ -14,7 +24,7 @@
   "2b722420-decf-46ce-a20a-1eedb0ffa494": {
     "Created": "2022-02-09T11:52:00.000Z",
     "Twitter": "https://twitter.com/Naz_Foundation",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6fb99be0-0f21-44d7-98d0-7c542037c445/naz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=9064b50f161aba0ac0c3408359e06ef50e8cb8454d76a8fc19cb74246d19240c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6fb99be0-0f21-44d7-98d0-7c542037c445/naz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=900d8b68efde7a7382f4a3610d253da1b0b517504d43e406098f617f209bcebf&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "https://www.nazindia.org/",
     "LinkedIn": null,
@@ -26,7 +36,7 @@
   "8ccc73fc-983e-4420-a57f-1fd372e366e3": {
     "Created": "2022-02-09T11:52:00.000Z",
     "Twitter": null,
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6900e06d-ed0f-4d60-a282-8b8227c36755/vidya.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=e308e4485d2d603ea49b565b450321db2877245df2f687c6fd56df712594a153&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6900e06d-ed0f-4d60-a282-8b8227c36755/vidya.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=aade8af2896d4f1b70a5100315f4cb573d20fdf4b5213e0b17514567a333a4e2&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "http://www.vidyaandchild.org/",
     "LinkedIn": null,
@@ -38,7 +48,7 @@
   "e54d9411-8a95-4a63-a04a-3cc6b51eb84f": {
     "Created": "2022-02-09T11:52:00.000Z",
     "Twitter": "https://twitter.com/skilled_odisha",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e928043-3aba-4d0b-b75f-ef24922b85c6/odisha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=bd3be3f655beb4fb770d686746ea200751af9a1a039e98063a432798fb713987&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e928043-3aba-4d0b-b75f-ef24922b85c6/odisha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=facd039bcadbddb37185b26ec551a73e45444e133971f5c635991d6d80b6488d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "Government",
     "Website": "https://skillodisha.gov.in/home",
     "LinkedIn": null,
@@ -50,7 +60,7 @@
   "852be44c-1408-413f-b43c-bcbfa1d035ae": {
     "Created": "2022-02-09T11:51:00.000Z",
     "Twitter": null,
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ce9c21c0-5a99-4c43-ae2a-3f8eb0230910/piramal.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=2c4fb39aef9e1d88b415f36af127efe09b98e4ef1e19973203c8ce09610a457c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ce9c21c0-5a99-4c43-ae2a-3f8eb0230910/piramal.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=27dc0f34d3e730d09b23036daa4679836c8056479c33779bb7c8fb92ee3722f5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "https://www.piramalfoundation.org/education-leadership",
     "LinkedIn": null,
@@ -62,7 +72,7 @@
   "c18f39b5-4132-4c1a-ab58-7b7fc2c94bc9": {
     "Created": "2022-02-09T11:51:00.000Z",
     "Twitter": "https://twitter.com/kissfoundation",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7906dcef-76cc-4d6c-9421-855099f21e9c/kiss.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=98ee22044469ca70702fcce535b8a32eb98d32ca48ec97a35655453d383aed06&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7906dcef-76cc-4d6c-9421-855099f21e9c/kiss.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=588c3777cc61337cf09c001a1abee06a8e3e0fb8b0c43c2ead6671957726d31c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "https://kiss.ac.in/",
     "LinkedIn": null,
@@ -74,7 +84,7 @@
   "40cab56e-17d8-4734-8ab2-41e95fb873b9": {
     "Created": "2022-02-09T11:50:00.000Z",
     "Twitter": null,
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc568b1e-204b-4269-82e2-ccfb3e5f2576/logo-trti.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=f0f8886f794d43b2b31e6885e992c7ca735789679748c3ac90ee86fdff29107d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc568b1e-204b-4269-82e2-ccfb3e5f2576/logo-trti.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=170d95394d7bfed88c43692c1d923b947038ce2faa0f68185564095aa57d5090&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "Government",
     "Website": "https://trti.maharashtra.gov.in/index.php/en/",
     "LinkedIn": null,
@@ -86,7 +96,7 @@
   "aa6a7ddf-afe6-457e-a1be-dd2c93cf842d": {
     "Created": "2022-02-09T11:49:00.000Z",
     "Twitter": "https://twitter.com/MovementSmart",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ad51fc9-75c5-41dd-aeb1-ba47081dac1b/smartvillage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=5f05df2fe423edfce19e8d3c3cce20117228c67640d021f81c2fbd62d60a736e&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ad51fc9-75c5-41dd-aeb1-ba47081dac1b/smartvillage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=ba2465ae786c6c4e8a32a5342d4e1fd687ae8bf32a1bda74507c6f9d796a2097&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "https://www.smartvillagemovement.org/about-svm/",
     "LinkedIn": "https://www.linkedin.com/company/ucbapsmartvillage/",
@@ -98,7 +108,7 @@
   "a671843a-d30d-4cbb-bb8c-372f91c680bb": {
     "Created": "2022-02-09T11:47:00.000Z",
     "Twitter": "https://twitter.com/educate_girls",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5628e6b5-842d-4b7b-827c-80ae6a669a37/educategirls.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=777ec5ad66585ff065f6c7bdc3344b86d1ac1bd68e9b4484fb4e096ff9f26e21&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5628e6b5-842d-4b7b-827c-80ae6a669a37/educategirls.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=ea1a81e9b204ad670a7043211f787396edfa4db9e64af9b5d33fae91f54b175d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "NGO",
     "Website": "https://www.educategirls.ngo/",
     "LinkedIn": "https://www.linkedin.com/company/educate-girls/",
@@ -122,7 +132,7 @@
   "3b630aaf-4b4e-4048-a6d8-9729d1286959": {
     "Created": "2022-02-09T10:03:00.000Z",
     "Twitter": "https://twitter.com/twdtripura",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9f87404-7bcd-4286-8896-4e08374e44f8/tribalwelfare.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=c53d97e06cb0a0dee881e7bf1c2add1b9a13b65a4be5f1fc7dd2b42391147b70&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9f87404-7bcd-4286-8896-4e08374e44f8/tribalwelfare.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=23c574bc00a7d1a779e688f3bed6f9d76a8846c0ab56afe4d49d2aa0914508ef&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "Government",
     "Website": "https://twd.tripura.gov.in",
     "LinkedIn": null,
@@ -134,7 +144,7 @@
   "996b74c5-eaa6-4a41-801b-3a5fb628ed08": {
     "Created": "2022-02-09T10:03:00.000Z",
     "Twitter": "https://twitter.com/dseu_official",
-    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1291b1fc-61e6-480b-9f08-d3653de00455/DSEU_logo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T092510Z&X-Amz-Expires=3600&X-Amz-Signature=fa068ebc8182296324349013b881c3d250e29710807e50110128c6a30593eb34&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Logo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1291b1fc-61e6-480b-9f08-d3653de00455/DSEU_logo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220924%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220924T094150Z&X-Amz-Expires=3600&X-Amz-Signature=4eb6c2e4e8529b6943423b598989a63aa230954302928db29beb5e7d9ab58e66&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Type": "Government",
     "Website": "https://dseu.ac.in/",
     "LinkedIn": "https://www.linkedin.com/company/delhi-skill-and-entrepreneurship-university/",
