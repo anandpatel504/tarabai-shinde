@@ -1,4 +1,134 @@
 {
+  "6fc8a4c0-5914-4535-8076-5b00bb925579": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
+  "b7442147-299e-4c1c-ace8-f321d5154a1e": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
+  "87613e84-1cf0-444d-b601-c7a3ca839828": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "Meenakshi Dilip Parihar",
+    "Content": []
+  },
+  "04fd69a4-bb85-45e1-b4ad-7f0b8f1c0838": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
+  "d4e55530-8bb7-4f5c-9f6d-00fe4d2da909": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "Pooja Palkandwar",
+    "Content": []
+  },
+  "76c38f80-88b3-478a-ac8b-4e573b8beb9c": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
+  "76314d25-7c6a-475e-bf4e-f5f816d1f534": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
+  "97a22d4b-31a3-4824-9c1b-14b457d1d75c": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "kalyani Dhote",
+    "Content": []
+  },
+  "295660a8-6e6a-40a8-9ce1-2a6ad300e6ec": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "Mahima Dhomane",
+    "Content": []
+  },
+  "27c50000-fce1-4f2d-a6df-a36324d18f5a": {
+    "Country": null,
+    "Email": null,
+    "Bio": null,
+    "Linkedin": null,
+    "Association": null,
+    "": null,
+    "Designation": null,
+    "Photo": null,
+    "Twitter": null,
+    "Name": "",
+    "Content": []
+  },
   "2b23138c-0d02-4c5c-a451-040aadd8bcbf": {
     "Country": "India",
     "Email": "ajjay@navgurukul.org",
@@ -135,7 +265,7 @@
     "Bio": "I am pursuing Bachelor of Technology in Computer Science and Engineering,Amity University Lucknow,Uttar Pradesh. I am a MERN Stack developer and love to build real word applications. ",
     "Linkedin": "https://www.linkedin.com/in/priyanshu-tiwari-602586199/",
     "Association": "Consultant",
-    "": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7adf3dc7-0aa4-486e-b963-8159555507cc/Profile_Pic.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230420%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230420T072434Z&X-Amz-Expires=3600&X-Amz-Signature=a4a5447134b3476a9f1146ba7b62d0f5bfbf0c46e5e7747af140a30d118eb197&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7adf3dc7-0aa4-486e-b963-8159555507cc/Profile_Pic.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230420%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230420T073316Z&X-Amz-Expires=3600&X-Amz-Signature=b4668b2b60f79bc05e82bfc470609dd77600a060bd8c2d305228fb0dbeb5376b&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Designation": "Student",
     "Photo": null,
     "Twitter": null,
@@ -317,19 +447,6 @@
     "Photo": "Nasir.jpg",
     "Twitter": null,
     "Name": "Md Nasir",
-    "Content": []
-  },
-  "b4fc2fb0-9cef-49ef-b207-7114527cb8fe": {
-    "Country": "Not started",
-    "Email": "nigmanand22@navgurukul.org",
-    "Bio": null,
-    "Linkedin": null,
-    "Association": "Not Active",
-    "": null,
-    "Designation": "Data Manaer",
-    "Photo": "WhatsApp Image 2022-10-13 at 11.16.21.jpeg",
-    "Twitter": null,
-    "Name": "Nigmanand",
     "Content": []
   },
   "bad9a9eb-9cb0-4b4b-8a53-2b75fae9e6b3": {
@@ -1255,79 +1372,5 @@
     "Content": [
       "Alumini of Navgurukul Campus. Currently working as Community Manager In Sarjapura Campus"
     ]
-  },
-  "ae379983-72b7-4de7-9052-e8ef940ae7ca": {
-    "Country": "India",
-    "Email": "narendra@navgurukul.org",
-    "Bio": null,
-    "Linkedin": "https://www.linkedin.com/in/perfectlypixel/",
-    "Association": "Contract",
-    "": null,
-    "Designation": "UI/UX Deisgner, Meraki",
-    "Photo": "photo.jpg",
-    "Twitter": null,
-    "Name": "Narendra Singh",
-    "Content": [
-      "Narendra is a UX professional who aspires to enhance UX maturity wherever he works by doing data-informed UX design. He is also an avid cooking hobbyist and amateur photographer.",
-      "\n"
-    ]
-  },
-  "f9ecc48f-d224-4da9-a207-06b73e1a9e55": {
-    "Country": "India",
-    "Email": "a@navgurukul.org",
-    "Bio": "IITD \u201813 CS Graduate. Co-founded ",
-    "Linkedin": "https://www.linkedin.com/in/abhishekgupta92/",
-    "Association": "Full-time",
-    "": null,
-    "Designation": "Co-founder & Chief of Innovation",
-    "Photo": "Abhishek-ceo.jpg",
-    "Twitter": "https://twitter.com/vanitypotato",
-    "Name": "Abhishek Gupta",
-    "Content": [
-      "IITD \u201813 CS Graduate. Co-founded Zumbl.com and FranklyMe. Zumbl was acquired and FranklyMe raised more than 2.6M$ from Matrix Partners and others. Was working with Education Department, Delhi Government before NavGurukul.",
-      "\n"
-    ]
-  },
-  "da5b57c6-5a2c-45b7-a95e-7af576a63d0d": {
-    "Country": "India",
-    "Email": "dhanshri20@navgurukul.org",
-    "Bio": null,
-    "Linkedin": "linkedin.com/in/dhanshri-sonwane-341830219",
-    "Association": "Full-time",
-    "": null,
-    "Designation": "Tech Associate (Android)",
-    "Photo": "WhatsApp Image 2022-03-06 at 7.03.36 PM.jpeg",
-    "Twitter": null,
-    "Name": "Dhanshri Sonwane",
-    "Content": [
-      "Currently working as Tech Associate (Meraki) Android. Alumini of Navgurukul. ",
-      "\n"
-    ]
-  },
-  "7c4ea0b1-18b4-40fb-aa86-0f2cdcbf57b1": {
-    "Country": "India",
-    "Email": "pihu20@navgurukul.org",
-    "Bio": null,
-    "Linkedin": null,
-    "Association": "Full-time",
-    "": null,
-    "Designation": null,
-    "Photo": "pihu1234.jpeg",
-    "Twitter": null,
-    "Name": "Pihu gupta",
-    "Content": []
-  },
-  "96990f39-f750-4d82-8311-500c97d8ea41": {
-    "Country": "India",
-    "Email": "pranav@navgurukul.org",
-    "Bio": null,
-    "Linkedin": "https://www.linkedin.com/in/pranavps-aa4a16193/",
-    "Association": "Part-time",
-    "": null,
-    "Designation": null,
-    "Photo": null,
-    "Twitter": "https://twitter.com/pranavp_s",
-    "Name": "Pranav Pratap Singh",
-    "Content": []
   }
 }
