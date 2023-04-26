@@ -12,13 +12,13 @@
     "Content": []
   },
   "a4daf718-fcef-4d3e-840b-74e30ebe83bf": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "dhanmalaj21@navgurukul.org",
     "Bio": null,
     "Linkedin": null,
     "Designation": "Culture Associate part time intern - Pune Campus",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31452892-f1c6-4420-a7e5-e02d1b3af4aa/IMG_20230424_170602_246.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=b88a917d4b125a97c072683531f9f74dab17fe2f723ee0c006cc5872117b9179&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31452892-f1c6-4420-a7e5-e02d1b3af4aa/IMG_20230424_170602_246.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=7a557507c4291acc76e4a9c3753bd0456707789964aed529142a989a57232083&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Dhanmala Jamatia",
     "Content": []
@@ -30,7 +30,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/basil-sunny-40565619a/",
     "Designation": "UX Designer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/807692bf-84cf-48d8-98b2-a10bac072d0f/basil.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=5a7ccdb9c6968b9f4fd76cb4339769dcb9b3c5fe4ae520d2c80b2a3df562b21b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/807692bf-84cf-48d8-98b2-a10bac072d0f/basil.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=4a73946c613e2e9480d2456aa4123196638961cd7dc923494f78f1dd5517b5aa&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Basil Sunny",
     "Content": [
@@ -38,16 +38,18 @@
     ]
   },
   "4921dad5-764c-4ff7-9205-5c7f6ac9d9b9": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "rishabh@navgurukul.org",
     "Bio": "A passionate programmer. Specializes in competitive programming, data structures and algorithms. Also into writing blogs and reading books.\nCurrently a pre-final year engineering student.",
     "Linkedin": "https://www.linkedin.com/in/rishabh-srivastava-88538b20b/",
     "Designation": "Code India Intern",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0481529d-58d4-4431-9f40-fae9cdad77fb/profpic_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=82f8e8d67ae16d45768d40a997cc3f6fb9914f00ecd7586c65a3c574b156370c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0481529d-58d4-4431-9f40-fae9cdad77fb/profpic_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=4b7534aa37028f9b87a9947c4a4d972fa689c86c25b4e0e9d36ccaefa2dff22a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Rishabh Srivastava",
-    "Content": []
+    "Content": [
+      "A passionate programmer. Specializes in competitive programming, data structures and algorithms. Also into writing blogs and reading books.\nCurrently a pre-final year engineering student."
+    ]
   },
   "297bae2f-88ec-44ca-aacf-1024e8bf5f4e": {
     "Association": "Full-time",
@@ -56,7 +58,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/abhishekgupta92/",
     "Designation": "Co-founder & Chief of Innovation",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4476390d-6f39-44ad-8f2a-8fd9c6a87e3e/Abhishek-ceo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=d057ba076349850d12473fe6650811fbb7ceb52a091ca78cfda045f7f628529f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4476390d-6f39-44ad-8f2a-8fd9c6a87e3e/Abhishek-ceo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=afa0acf7b8ccafa193249feb8f9c0af3d8612d3139c5e581135533d3667755dd&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/vanitypotato",
     "Dhanmala Jamatia": "Abhishek Gupta",
     "Content": [
@@ -64,31 +66,19 @@
     ]
   },
   "c0ada7c1-339c-48c4-9823-e8d323ff223b": {
-    "Association": null,
+    "Association": "Contract",
     "Country": "India",
     "Email": "priyanshu@navgurukul.org",
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/priyanshu-tiwari-602586199/",
     "Designation": "Consultant",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60bfafee-2cce-4050-88e9-93ee3d6496a7/Screenshot_from_2023-04-22_20-41-08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=c1c037e631e89ee1360ac16c81c07fd213647feda79afe953426e50bc64483a6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60bfafee-2cce-4050-88e9-93ee3d6496a7/Screenshot_from_2023-04-22_20-41-08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=4d5ce4bce78325cef6f794da9e9ac859c4ecfbad3e1a93bcd42fb87caf15d3e1&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Priyanshu Tiwari",
     "Content": [
       "\n",
       "I always do my best in what I take. A very positive person who loves learning new things and meeting new people.A full stack web developer \ud83d\udc68\u200d\ud83d\udcbb. Passionate to learn new web \ud83d\udd78 technologies \u2699 and frameworks \ud83d\uddbc."
     ]
-  },
-  "87613e84-1cf0-444d-b601-c7a3ca839828": {
-    "Association": null,
-    "Country": null,
-    "Email": null,
-    "Bio": null,
-    "Linkedin": null,
-    "Designation": null,
-    "Photo": null,
-    "Twitter": null,
-    "Dhanmala Jamatia": "Meenakshi Dilip Parihar",
-    "Content": []
   },
   "d4e55530-8bb7-4f5c-9f6d-00fe4d2da909": {
     "Association": null,
@@ -197,7 +187,7 @@
     "Bio": "A writer, poet and avid reader and learner. A for-impact minded individual. Previously worked at Project Baala (Intern), The Apprentice Project (Talent Acquisition Team Lead) and Teach For India (Intern). Currently a Public Policy candidate at Global Governance Initiative and PGCPF at IIM-Indore.",
     "Linkedin": null,
     "Designation": "Senior Associate - Donor Management",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2c23db5e-f732-45e3-af43-04a448e08df8/IMG_20210621_155002_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=e8fac2d231c65b774c92aad3a7a18903567e847c5ea25b7d61584c517c4385fd&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2c23db5e-f732-45e3-af43-04a448e08df8/IMG_20210621_155002_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=d398ada1cf175178a6fa82d5aff06827ac5cce5939a300af6a546e5e9384bd59&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Lakshmi Gopal",
     "Content": []
@@ -209,7 +199,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/df037746-f535-4ed0-a5c6-8abb4553d1b7/Snapchat-1882572892.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=fd8c433dfd2f45b13b18b53b61a4066b585aca6d9df36d62ad95cf42b8c95b64&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/df037746-f535-4ed0-a5c6-8abb4553d1b7/Snapchat-1882572892.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=7bd3f05413bac55698a59def1c554b7b22a322eca0490825611025ac7b16ea5d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Sumaiya\ud83c\udf38",
     "Content": []
@@ -221,7 +211,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/sonalika-sharma-938076190",
     "Designation": "Program Manager - Learning",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/183fcc6a-caac-4c98-9ee7-1feaa1d8e8a0/Sonalika.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=d8afa4ef9947f613771a543001f4fb3c74eceb27e082a892ad0cac98a6c886c5&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/183fcc6a-caac-4c98-9ee7-1feaa1d8e8a0/Sonalika.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=642f2b056e7840b4349fbc23ba5aec070807e81a96bdeaa7aa16557924ee7b6f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Sonalika ",
     "Content": [
@@ -229,16 +219,18 @@
     ]
   },
   "e4d24778-a3f7-4539-bb91-25e4826fea20": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "aayushi@navgurukul.org",
-    "Bio": "Aayushi has been working in the developmental sector for over twelve years and is a voracious \u201clistener\u201d who believes in the magic of inclusion. She is a new mom, learner and dreamer. Her expertise lies in creating synergies between people and their workspaces in not-for-profit sector by tailoring HR functions to the needs of development organisations. During her professional journey, she got to work on various thematic areas like health, education, women and child and disability. A Symbiosis International University alumni, she has completed her Masters in Human Resource Management from the University of Wales, UK. She is currently on her PhD journey because of her keen interest in exploring topics of inclusion and employment of people with special and diverse abilities and works toward creating safe workspaces that are inclusive and accepting of diversity.",
+    "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/aayushi-darshana-she-her-57657110/",
     "Designation": "Head,People and Culture",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed317d96-b7cf-40cd-8715-f352aa5abb7e/IMG-20191025-WA0010_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=04c733e59877f4aa5680523b42f5b58b75d1ed0dd82478b886929c17410baf09&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed317d96-b7cf-40cd-8715-f352aa5abb7e/IMG-20191025-WA0010_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=dc3316277d80fa1e7e9709cbce67545cc714f03b5595e385b459324d89646978&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aayushi Darshana",
-    "Content": []
+    "Content": [
+      "Aayushi has been working in the developmental sector for over twelve years and is a voracious \u201clistener\u201d who believes in the magic of inclusion. She is a new mom, learner and dreamer. Her expertise lies in creating synergies between people and their workspaces in not-for-profit sector by tailoring HR functions to the needs of development organisations. During her professional journey, she got to work on various thematic areas like health, education, women and child and disability. A Symbiosis International University alumni, she has completed her Masters in Human Resource Management from the University of Wales, UK. She is currently on her PhD journey because of her keen interest in exploring topics of inclusion and employment of people with special and diverse abilities and works toward creating safe workspaces that are inclusive and accepting of diversity."
+    ]
   },
   "e080bc61-27d6-4b50-8d4b-2749b9c824dc": {
     "Association": "Full-time",
@@ -247,7 +239,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/venkatesh-kodukula-they-them-208a9632/",
     "Designation": "Recruitment Associate",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/deabd64c-82af-478b-8cd6-e71e85ba5c70/Solo_Picture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=0de432ad96264b5d5b4c5ed7fc975f763fa47021277cc3ad16268453e6635cf2&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/deabd64c-82af-478b-8cd6-e71e85ba5c70/Solo_Picture.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=2da3ea3325bf9d8885a6ad6effa16d232e008cdadaf87435091a65408630b6cc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "VENKATESH KODUKULA (THEY/THEM)",
     "Content": [
@@ -261,7 +253,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/67d99bae-5403-4223-8578-66b1829611d1/bioprofileimage_aparna.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=8993784f7af44fa76679ae5433311810268a03a8bcdae0dac077685dd4724705&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/67d99bae-5403-4223-8578-66b1829611d1/bioprofileimage_aparna.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=bf0c78d8e5d914b899b5b66f7a9995a35692765eec547e265a55944205f5a067&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aparna Sh",
     "Content": [
@@ -277,7 +269,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/nilam-kumari-53379816a/",
     "Designation": "Program Manager- MERAKI",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96cd881c-5724-47fe-acfb-ea2fe62aae74/WhatsApp_Image_2022-03-06_at_4.09.05_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=9c53e657172cf097204772102453dd2f73afb460d9e779c0b8af22b15770c05b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96cd881c-5724-47fe-acfb-ea2fe62aae74/WhatsApp_Image_2022-03-06_at_4.09.05_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=e7555a70589416faa1f0c459ee1e04c61a9963fcc61884747fac35314e33da92&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "Nilamyadav105",
     "Dhanmala Jamatia": "Nilam Yadav",
     "Content": []
@@ -289,7 +281,7 @@
     "Bio": null,
     "Linkedin": "in.linkedin.com/in/aditirindani",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fdc807da-43e1-4d9b-8272-da0254220972/Aditi.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=31badb74663ebc16c07abf9c7bacb01a60c90e1e5ddda088515eaf222bd43ad7&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fdc807da-43e1-4d9b-8272-da0254220972/Aditi.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=ba8bc2a7cd7d6e39d3b198ee0b5dfdecf6baf8d70d7d7d1a59a09c8dfcde26ac&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aditi Rindani",
     "Content": [
@@ -315,7 +307,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/mrmdnasir/",
     "Designation": "Front-end Developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b76a0f3-76df-42b4-bfc4-b5f8f5c29bf8/Nasir.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=928e588f80ec60fe80b9e8319a37248cab29b8d34b9073a3e8382f511946899c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b76a0f3-76df-42b4-bfc4-b5f8f5c29bf8/Nasir.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=d4c397091fa6bb9f8d6ea1cfa494a27ef6eee1809546aede7ce73477040c255a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Md Nasir",
     "Content": []
@@ -327,7 +319,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Program Manager- MERAKI",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b9528ee-0af6-405b-86c3-64315dc57c28/profile_photo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=7cae3f1c7920d16f5fecafa855a98f28c2e6b310c6b61b8060bea65741fd0a7f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b9528ee-0af6-405b-86c3-64315dc57c28/profile_photo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=d36035df29177c08611c675ba811ba761acf8a8469ddb99916de0dff824bad54&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Haritma Gupta",
     "Content": []
@@ -339,7 +331,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/anurag-mishra-4093",
     "Designation": "Kotlin Developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ca05c72c-b7b8-4262-9880-222475d8ddf2/IMG_20220919_131534.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=94ee827cc6c3af026ff9646c5892c9d039af9354a7d6ba30bad1a39e1b8754ff&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ca05c72c-b7b8-4262-9880-222475d8ddf2/IMG_20220919_131534.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=ea9028e83b689e557fdb2eda7d04c963bbaaf0bc60892152be60ee9622288bde&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Anurag Kumar Mishra",
     "Content": [
@@ -354,22 +346,24 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Backend Developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8fd3dd63-ea45-4390-a2cb-2e3d130124e5/IMG_20220803_223253.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=8713295d089769176a1f5260c4683e57c40c626bf34efee1d16b95bb0278c5bf&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8fd3dd63-ea45-4390-a2cb-2e3d130124e5/IMG_20220803_223253.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=f8033f055eb2b7395fb0969377e5674b726ec44b209b9b72024b276ab6afeec4&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "kajal yadav",
     "Content": []
   },
   "0edc7bca-d6a5-467d-ad87-49b5244ac868": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "sresthab21@navgurukul.org",
-    "Bio": "I am Srestha Biswas ,20 years old.I am from Agartala ,Tripura. I have done Diploma in Architecture. I have spend 8 months in Navgurukul Tripura Campus. And handled the treasurer post for 7 months.",
+    "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/srestha-biswas-3073a21b0/",
     "Designation": "People and Culture apprentice",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d99d917f-f954-4411-94c0-f769816ee211/WhatsApp_Image_2022-08-23_at_10.49.12_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=563ce249f7e0e314c0192931f88d7cb5f2843a5716c126b3613f686031928516&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d99d917f-f954-4411-94c0-f769816ee211/WhatsApp_Image_2022-08-23_at_10.49.12_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=6bbd68780dc3b580dc75dd443a8af1cb354949a29d44cb355867e3b190038acc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Srestha Biswas",
-    "Content": []
+    "Content": [
+      "I am Srestha Biswas ,20 years old.I am from Agartala ,Tripura. I have done Diploma in Architecture. I have spend 8 months in Navgurukul Tripura Campus. And handled the treasurer post for 7 months."
+    ]
   },
   "db357098-d4d3-439d-b928-850aae6c2da5": {
     "Association": null,
@@ -378,7 +372,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/notifications/",
     "Designation": "Data Manager at Bangalore Campus",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/797e087a-80bb-4047-ac42-1c526cd3d47d/1661157937114.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=0606aed600df23574623e77ec05373ceb0708be953fc3efa1e8c0867c6a546c3&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/797e087a-80bb-4047-ac42-1c526cd3d47d/1661157937114.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=497e4b6cc79e56ed13839c86f86fd2afe0400d759bb33403edb602d1ed0b08ae&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Jianreiliu Thaimei (Jian)",
     "Content": []
@@ -390,7 +384,7 @@
     "Bio": "Graduated from Imphal College, Manipur University pursued Economics || Wants to be part of the success in an environment of growth and excellence and earn a job which provides me job satisfaction, self-development and helps me achieve personal as well as organizational goals||Self-Motivator",
     "Linkedin": "https://www.linkedin.com/feed/",
     "Designation": "Data Manager at Bangalore Campus",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62da1d48-0c8f-4d6f-876a-3dc59e7848f5/Chuningliu_Kahmei_Passport.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=a2f7815518465243dd51d912d49151d69bd9946c8ac5cb8fad9773a1eef66c39&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62da1d48-0c8f-4d6f-876a-3dc59e7848f5/Chuningliu_Kahmei_Passport.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=d484e8359c22e8f9c1b631f7722a14d75dc00fc620dd483e393865d31b124fb9&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Chuningliu Kahmei",
     "Content": []
@@ -402,7 +396,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/muskan-valmikee-0ba3a3213/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b81c4e2e-cc5a-43c9-8c73-6b363927eb3c/WhatsApp_Image_2022-08-13_at_10.05.41_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=5698e2ad5ad7c0ed39ba1e4f2e288aab0fc0b05febc7bbbf14bc2f8f6ca27931&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b81c4e2e-cc5a-43c9-8c73-6b363927eb3c/WhatsApp_Image_2022-08-13_at_10.05.41_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=fc0aa46749550f5af7d7c71a482a5e09be4cf708965cd957e9dda16e13a0a68f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/MValmikee",
     "Dhanmala Jamatia": "Muskan Valmikee",
     "Content": []
@@ -414,7 +408,7 @@
     "Bio": "Nothing is impossible. The word itself says 'I'm possible!\u2019",
     "Linkedin": "https://www.linkedin.com/in/muskan-thakur-789b52206/",
     "Designation": "Software Engineer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/091c5590-3b3e-4b4a-b3de-007a9d5644e6/WhatsApp_Image_2022-06-10_at_6.48.28_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=c314cdf86629ddf3fcca53761ed3bd379a20655b1f8f709e2694b90bf7c01a1b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/091c5590-3b3e-4b4a-b3de-007a9d5644e6/WhatsApp_Image_2022-06-10_at_6.48.28_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=275cd9fd76eddc677949518dd9cee284f9811f8560fff9922fba8ee112c7f529&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/MuskanTh",
     "Dhanmala Jamatia": "Muskan",
     "Content": [
@@ -428,19 +422,19 @@
     "Bio": "Tech enthusiast, like to travel to new places, sports and NCC enthusiast.",
     "Linkedin": null,
     "Designation": "CIF Intern",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/081eb3dd-c72a-41a8-8875-7dbe42ef42a8/20151217_144117.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=4bfadd7ad022f288f47ab912dccf77df58db5e1e34e2d6d606b45009e96089b6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/081eb3dd-c72a-41a8-8875-7dbe42ef42a8/20151217_144117.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=6da69b06f22b9e49e3c89e424274a0553537ae6ee653611ecece7c7a47972b4d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Anjali Rani",
     "Content": []
   },
   "83df9b8f-4244-4cf8-b26e-cc35c0d536f9": {
-    "Association": null,
+    "Association": "Intern",
     "Country": "India",
     "Email": "om@navgurukul.com",
     "Bio": "Currently diving into frontend development \ud83d\udcbb. Likes to solve problems.",
     "Linkedin": "https://www.linkedin.com/in/omkathe/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b83cab2c-0181-43d5-8f39-0a46e930f385/DSC_0562-min-cropped.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=904dd04158e26c35de87460ce17526e389acfa619c199d26f5d7368bc3b0bcdf&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b83cab2c-0181-43d5-8f39-0a46e930f385/DSC_0562-min-cropped.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=05d51c0af3e08abf182febd221c4885bf336000b4341bd2697043f2b7d731493&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Om Kathe",
     "Content": [
@@ -454,7 +448,7 @@
     "Bio": "junior community manager in sarjapura \ud83e\udd70",
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60f35a0a-9ad6-4270-b129-cbd3478bc015/IMG_20220624_203126_881.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=0ac5866e0d5825e846a5d5a717b52743dcd88e6c80d42fdbcde8d2dc51b0071a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60f35a0a-9ad6-4270-b129-cbd3478bc015/IMG_20220624_203126_881.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=578df4ebd5cf35e87ca664ac901acdd9a8f634d0a4cb678ef9f214d821e4581c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Insha rizvi",
     "Content": []
@@ -478,7 +472,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0d727ac5-03be-4f50-b153-ddac8fc74fc2/WA-IMG-20220624-4b2cd107.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=0d30a4636e58883bce044e18a9cec45e6ce56fcc11a7caaf95ed6887551427bb&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0d727ac5-03be-4f50-b153-ddac8fc74fc2/WA-IMG-20220624-4b2cd107.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=f5683dc6f5f52a0ef579fb46c7bdef69361bdfba6631b2c596023dfd973f452b&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Rani Rathod",
     "Content": []
@@ -490,7 +484,7 @@
     "Bio": null,
     "Linkedin": "https://in.linkedin.com/in/aditya-minocha-26567310?trk=people-guest_people_search-card",
     "Designation": "Leadership and Executive Coach",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c81b6d30-6a6f-4a57-ace2-f83d8a9e639b/Profile_Pic.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=e5890ba48f229c16a1ed74d238210d0f02bbb4e9386b00501aada6748fd8c761&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c81b6d30-6a6f-4a57-ace2-f83d8a9e639b/Profile_Pic.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=0b5af1ec53ea64a77cce4f56b5d66e744fee708b61d23f3e95da483572a3661d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aditya Minocha",
     "Content": [
@@ -504,7 +498,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6cfba2b-27aa-4778-a932-6f417f8d0e41/WhatsApp_Image_2022-03-30_at_8.14.39_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=819724914ce9e894f85e8d70e6c0a9d1cf0a6ef3b81f422fd71315f8ab0fbfa3&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6cfba2b-27aa-4778-a932-6f417f8d0e41/WhatsApp_Image_2022-03-30_at_8.14.39_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=7b77eec0739e3f3885cd93e5b3d6e337f073f85a7bfe5f176567cfe4573d7fbc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Pooja Singh",
     "Content": []
@@ -516,31 +510,31 @@
     "Bio": "I am a creative and empathetic person with 7.5 years of work experience as a Marketing Communications professional and 2 years of training experience as an employability skills trainer.",
     "Linkedin": null,
     "Designation": "Communications and School of Design Lead",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f55085fe-5775-4ee4-a7b9-35eb38ee5ee5/Shriyas_Image_April_2022.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=af8c92cdd98d8a898eaf84471e941c92b24ddf8ee4626704d6c838f96c6d6b8a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f55085fe-5775-4ee4-a7b9-35eb38ee5ee5/Shriyas_Image_April_2022.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=46e6d59f638a4c97c0a71df246c40c9ffe3c6c07e330dbac3eb52bb0ec3fbf85&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Shriya Agarwal",
     "Content": []
   },
   "846d3b09-9f41-4d11-8c2d-42b7c8e158b4": {
-    "Association": null,
+    "Association": "Intern",
     "Country": "India",
     "Email": "aadarsh21@navgurukul.org",
     "Bio": null,
     "Linkedin": null,
     "Designation": "Back-end",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4748fe0-9213-4937-9048-866453e06a92/IMG_20220701_121443.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=9e4101d71086c7ec144a82d55abe48335af1507fe763b9d694a55210c8258160&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4748fe0-9213-4937-9048-866453e06a92/IMG_20220701_121443.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=c15aae049e28b4d77b01f362b238ab268697c2fa919057a210b66ff6395dda50&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aadarsh Kumar",
     "Content": []
   },
   "7b58881e-10d4-44d1-abe2-9053ade1f190": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "aman@navgurukul.org",
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/aman-sharma-52aa38184/",
     "Designation": "Front-end developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab651a32-c070-4c70-8dcf-5b3843569225/Aman-Sharmaji_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=adf79e75f624155962e38bdfc18a49da35aafd82cbbd85fbcd9f047c544e6f4d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab651a32-c070-4c70-8dcf-5b3843569225/Aman-Sharmaji_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=38aa97de0983e9da812af6a4a90c2f76bd7c0b58fb60341c942fd5546d9c8474&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aman Sharma",
     "Content": [
@@ -554,7 +548,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/saloni-panwar-4b82bb222/",
     "Designation": "Tech Apprentice",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0170a79-978e-48e5-85e9-30b317fa68a6/1653464947334.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=2023d2f997ebaaff7bc8d42f00c6f2a6e91e3ad609f05310cd60524cf63aca50&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0170a79-978e-48e5-85e9-30b317fa68a6/1653464947334.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=0afef55573a425df05031d5b909341fae1543a0e08f6ed009fe1e91b875b1608&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Saloni Panwar",
     "Content": [
@@ -568,7 +562,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/ujjwal-kashyap-27ba9722a/",
     "Designation": "Back-end",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b44afa69-907d-4b89-b2eb-326136922b94/WhatsApp_Image_2022-05-23_at_12.02.52_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=4f5adbf33bbe57a575bbdea76cc230483bff9c82a00e6efd31d743c2bbb6f503&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b44afa69-907d-4b89-b2eb-326136922b94/WhatsApp_Image_2022-05-23_at_12.02.52_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=c25d80f80c5f95c5c95fff58cd732b4829e91c19cfbb3bf3886da1025e163a51&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Ujjwal kashyap",
     "Content": [
@@ -576,28 +570,32 @@
     ]
   },
   "c6ef6e77-ccfc-4ab3-952c-36be0307ff0f": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "sanjnapanwar21@navgurukul.org",
     "Bio": "The Sooner, The better\u2026",
     "Linkedin": "https://www.linkedin.com/in/sanjna-panwar-33b837220/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3ee41a5-c1ce-44c1-847e-a66aca97359e/IMG_20220516_111742_940.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=766390d0bf18bf8a6ab7c70c87376933e496ef1d0516b9bfb439491c2940402a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3ee41a5-c1ce-44c1-847e-a66aca97359e/IMG_20220516_111742_940.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=a7726dd0c84ff87ae124a97aa8f5c405620ef785de4e131da3182af71b127f07&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "@PanwarSanjna",
     "Dhanmala Jamatia": "Sanjna Panwar",
-    "Content": []
+    "Content": [
+      "The Sooner, The better\u2026"
+    ]
   },
   "30b5c1c1-992f-435d-9ea1-1d46bc11a57d": {
-    "Association": null,
+    "Association": "Not Active",
     "Country": "India",
     "Email": "swatitp20@navgurkul.org",
     "Bio": "Currently working as Tech Associate (Meraki) Android. Alumini of Navgurukul. ",
     "Linkedin": null,
     "Designation": "Tech Associate(Android)",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39a5574e-7fa9-4f9a-b1c2-2752287159ab/MyPic.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=9feb8088659ad2412d9b33d6ae61766378481220a8f99ed615d4e59090febd93&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39a5574e-7fa9-4f9a-b1c2-2752287159ab/MyPic.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=5821654917c0dd5942a580f28fbd1a98931221a214a27334f06cb6ecb9176ebc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Swati Parshuramkar",
-    "Content": []
+    "Content": [
+      "Currently working as Tech Associate (Meraki) Android. Alumini of Navgurukul. "
+    ]
   },
   "c0ab8daa-f360-4313-a9d3-a9b6c32df4e2": {
     "Association": "Not Active",
@@ -606,7 +604,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/anand-dhakane-35316217b/",
     "Designation": "Backend Intern",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6015ac56-3ce6-46fb-9b33-a0ef3042de45/anand.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=1ab7fdd3718428c9f2e015747dc76572d10ee2772f721641ef0da24e4cb6db08&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6015ac56-3ce6-46fb-9b33-a0ef3042de45/anand.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=4f2c0b98393caaa21efa61fb0a70fe4cc19fd231d01ea3781d3df1a8f43bd5cb&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/AnandDhakane3",
     "Dhanmala Jamatia": "Anand Dhakane",
     "Content": [
@@ -620,7 +618,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/saquibnasim",
     "Designation": "Software Engineer at Prismo Systems",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b9147c1-ba00-490e-9d42-585485938e7f/saquib.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=925dcdc40ab8e2cbffa5fcd1d188ef4505dff96dc506dc5a7e91c347f76e5a1b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b9147c1-ba00-490e-9d42-585485938e7f/saquib.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=88b1d5a561b644f4aa8d733a42eb44db497aab3a006c1b40e3b7601dce9a6191&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Saquib Nasim",
     "Content": [
@@ -629,13 +627,13 @@
     ]
   },
   "a617364f-49cd-4050-8499-8cbc6b59db39": {
-    "Association": null,
+    "Association": "Not Active",
     "Country": "India",
     "Email": "muthu@navgurukul.org",
     "Bio": null,
     "Linkedin": null,
     "Designation": "Programme Specialist",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/509a1514-f125-4696-b825-84b0423c17c2/me.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=a59e1a032fe8ec053cc656b981bdb34f71afb88717986cad99986d1c3422a43d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/509a1514-f125-4696-b825-84b0423c17c2/me.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=b62e26c1646af99ab3e2683078349da5c26ba870cb1c5de122c34268212a6b19&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Muthu",
     "Content": []
@@ -647,7 +645,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c24a88e7-5b67-43fe-80ad-527664f081fc/IMG_20220215_140044.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=943ab3b5ba64c0ee9c73bf769601cd43118c41449a51589ba16ead75f8e88a96&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c24a88e7-5b67-43fe-80ad-527664f081fc/IMG_20220215_140044.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=46db76236614f4770e2be6f05a1dcc67e49bbd96cda713b8850c3572da1492d5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "SAURABH GUPTA",
     "Content": []
@@ -659,7 +657,7 @@
     "Bio": "MERN Stack Dev, pursuing last year in BCA. My Skills are in JAVA, Python, C++, Flutter, Frontend & Backend. Here, I\u2019m assign as a Python Tutor Associate ",
     "Linkedin": "https://www.linkedin.com/in/kunal-lade-9b65981b3/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e8c90325-cd23-4a6d-b6e4-680901c7e5f0/IMG_20210814_151338_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=7e54917c799b920112b805ddec410a3a58d943ad4328eb2c7596c48de4484b18&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e8c90325-cd23-4a6d-b6e4-680901c7e5f0/IMG_20210814_151338_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=52da636612ad2f63971819e48c134bd71db73e50792d9203dd31bb2733620787&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Kunal Lade",
     "Content": []
@@ -671,7 +669,7 @@
     "Bio": "I am a programmer with knowledge of Python, c, c++, JavaScript, HTML, CSS, and hands-on practical knowledge and a learner in ethical hacking and cyber security. I am pursuing my Btech in CSE (3rd Year) at SUIIT",
     "Linkedin": "(19) RUDRA PRATAP DALEI | LinkedIn",
     "Designation": "PYTHON TUTOR",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b1aecf11-bd91-4133-acbd-3c1ed65b8782/RUDRA993755.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=8ea2c56fdf95374109cf443ad497ff559d0ff11e7c59126df7550880fbf2b3b1&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b1aecf11-bd91-4133-acbd-3c1ed65b8782/RUDRA993755.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=67c8103217168f70227994b5dbee05f2fbdfdc093091b46ab7e896f9a05031fc&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/RUDRAPRATAPDAL4",
     "Dhanmala Jamatia": "RUDRA PRATAP DALEI",
     "Content": []
@@ -683,31 +681,33 @@
     "Bio": "Teacher by heart and coder by passion.",
     "Linkedin": null,
     "Designation": "Python Training Associate",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e8de4baa-809c-45b9-a966-daa33d20e8f2/IMG-20211110-WA0029.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=1c836f81e18116969311557a07e64bae7f77566d60429a66eac2d60d8413f57f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e8de4baa-809c-45b9-a966-daa33d20e8f2/IMG-20211110-WA0029.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=20eed90fddf439f7a1a3f85cbdaacf2cf7b34e3b00d201a8758b359ee9173b74&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Shahbaz Sheikh",
-    "Content": []
+    "Content": [
+      "Teacher by heart and coder by passion."
+    ]
   },
   "8a56bbb1-7c6f-4f1c-ae6c-95e617812646": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "anzum20@navgurukul.org",
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/anzum-praveen-17a137213",
     "Designation": "Academic Associate",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d2c67fed-23a6-44f8-8a6e-98f4e24d423f/WhatsApp_Image_2022-04-04_at_11.18.10_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=b5acccc4354603fecb56e4ba0a960671e4001b8e2cdc77434f9aead1889fe76a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d2c67fed-23a6-44f8-8a6e-98f4e24d423f/WhatsApp_Image_2022-04-04_at_11.18.10_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=135fc9b07c64bdb2938102597e268043e21ea5a71470137809e7a1202f5fe4a5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Anzum Pravee",
     "Content": []
   },
   "13d255a8-c5a0-47b4-be5e-f35e3c40a1b2": {
-    "Association": null,
-    "Country": null,
+    "Association": "Volunteer",
+    "Country": "India",
     "Email": null,
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/sairayanapati/",
     "Designation": "Director, Engineering (Prismo Systems)",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31cb6692-9dcd-40c0-9e95-d0fd568cb806/WhatsApp_Image_2022-04-02_at_6.12.44_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=a670be238d478e40ffc9320c7a971a46ed5e535e7b411eaa59121d898dbfff54&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31cb6692-9dcd-40c0-9e95-d0fd568cb806/WhatsApp_Image_2022-04-02_at_6.12.44_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=0e3e8f1e26f91ebfcb970ac68b639081e3ca13c8c1fdb57b391555c1b6bc5055&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Sai Krishna Rayanapati",
     "Content": [
@@ -716,13 +716,13 @@
     ]
   },
   "3181d64a-b431-45d8-b295-1425781ea6ea": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "niyas@navgurukul.org",
     "Bio": "Passionate social worker with a demonstrated history of working in non-profit organizations.\nHailing from a rural village in Kerala, and worked with students from underprivileged backgrounds in Chennai for two years. Currently working as Code India Fellowship recruiter & Manager",
     "Linkedin": "https://www.linkedin.com/in/niyas-ali-k-57947a83/",
     "Designation": "Manager- People and Culture ",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3fe68b37-af05-4a40-85a2-2a058ae67c5b/PPniyas.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=8e0383d4269e52c22a2eaaf53c0c43517610bd622697e479ea45299512b192e5&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3fe68b37-af05-4a40-85a2-2a058ae67c5b/PPniyas.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=92e61179fe621e677ed3f61941fa6e532ff2614751f623bd18bd27da192a1429&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Niyas Ali K",
     "Content": [
@@ -730,28 +730,32 @@
     ]
   },
   "fdb73aa4-a01a-4236-bd38-0587e93305b7": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "divya@navgurukul.org",
     "Bio": "I am a Human Rights Protagonist, who enjoys solving complex problems. I envision working towards creating sustainable solutions to empower youth in making conscious choices in their career. I have 6 years of working experience with NGOs, Social Enterprises, Android apps, and startups etc. I enjoy writing poems, singing songs, and reading books.",
     "Linkedin": "https://www.linkedin.com/in/divya-kalra-97386457/",
     "Designation": "Manager (People Growth and New Initiatives)",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/36f488ab-4452-4bde-b675-c5c4bac10719/Passport_Size_Photo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=8e6f06fb80cca258b9ce764a26a24999108409b94afa7674842074e80d0735d4&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/36f488ab-4452-4bde-b675-c5c4bac10719/Passport_Size_Photo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=b05e6d8bf0fdf3488f46d8c3104ffd9df6708fe84eb9c0cab3fa956b2bdae9d6&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Divya Kalra",
-    "Content": []
+    "Content": [
+      "I am a Human Rights Protagonist, who enjoys solving complex problems. I envision working towards creating sustainable solutions to empower youth in making conscious choices in their career. I have 6 years of working experience with NGOs, Social Enterprises, Android apps, and startups etc. I enjoy writing poems, singing songs, and reading books."
+    ]
   },
   "954f8f35-c8c2-493d-9f9d-82931e16cf39": {
     "Association": null,
     "Country": "India",
     "Email": "tahniyatnisar21@navgurukul.org",
-    "Bio": "After completion of my masters in 2020.I have joined navgurukul as a student in OCT 2021 and APR 2022 joined NG team as admission executive",
+    "Bio": null,
     "Linkedin": null,
     "Designation": "Admission Executive",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/26db1380-440e-4214-a082-a7b97b0a7c7c/IMG-20220103-WA0011.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=dbce23aa4a26d40de793785339565511d0cf97b4f99e6ff4b2f7143fda8f931f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/26db1380-440e-4214-a082-a7b97b0a7c7c/IMG-20220103-WA0011.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=1c70c83f7b2480010514039db71e34e93b98d96f099b62ccf141563bf8e255ba&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Tahniyat Nisar",
-    "Content": []
+    "Content": [
+      "After completion of my masters in 2020.I have joined navgurukul as a student in OCT 2021 and APR 2022 joined NG team as admission executive"
+    ]
   },
   "81d99a11-f578-4d75-bc7e-c2eb6d04c7bd": {
     "Association": "Intern",
@@ -760,7 +764,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/vaibhav-magar-1591371bb/",
     "Designation": "Frontend Developer Intern",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4c5ee379-4cc4-46e0-bc36-413f885980b5/16362049999621.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=64fc80a282a223c26e54f04ad2c0a3955507c73af354029d453728d6b8398bca&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4c5ee379-4cc4-46e0-bc36-413f885980b5/16362049999621.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=5907143fc5c026c5d4106e658715c0c9dad868fe333706aaa25514113c505aab&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/Vaibhav80238360",
     "Dhanmala Jamatia": "Vaibhav Magar",
     "Content": [
@@ -774,7 +778,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Procurement Apprentice",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/895086d7-197c-4f07-85ee-1964c927e05d/WhatsApp_Image_2022-03-16_at_11.36.29_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=530402f8b725469e1235f05e1e944c5a2a70b1870277eb6c96451928de4a92d8&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/895086d7-197c-4f07-85ee-1964c927e05d/WhatsApp_Image_2022-03-16_at_11.36.29_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=1b53c3cc83193b1fcf449fc58f40bdd9eeded6ac7358620793c6590a2a1fbbc3&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Pooja Rani",
     "Content": [
@@ -786,13 +790,15 @@
     "Association": null,
     "Country": "India",
     "Email": "poojakumari21@navgurukul.org",
-    "Bio": "I am Pooja, student of Navgurukul Sarajapur compus, i had just completed my 12 last year currently I am pursuing B",
+    "Bio": null,
     "Linkedin": null,
     "Designation": "Recruitment Apprentice - Residential Programme",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3e62c43-12c6-48b9-b9fa-8d6315f81993/IMG-20211017-WA0037.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=c041449a657a91bd7874520359786ce09eb40d78d9bc5f5d8c3da7da83702f50&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3e62c43-12c6-48b9-b9fa-8d6315f81993/IMG-20211017-WA0037.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=47fa12d08f7a332809e90cd3eb88813570ee7fb886d05fb1b58697d734e3d143&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Pooja Kumari",
-    "Content": []
+    "Content": [
+      "I am Pooja, student of Navgurukul Sarajapur compus, i had just completed my 12 last year currently I am pursuing B"
+    ]
   },
   "dc9ce588-3eea-4435-8c81-864a78f01e60": {
     "Association": null,
@@ -810,13 +816,15 @@
     "Association": null,
     "Country": "India",
     "Email": "ruchi20@navgurukul.org",
-    "Bio": "I am Ruchi from Kanpur pursuing  graduation from CSJM University.I was the student of Navgurukul and now i am working as a Admission Executive with outreach team.",
+    "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/ruchi-verma-6a068b226",
     "Designation": "Admissions Executive",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c789fe0-e75c-40b4-8d0f-97c555a72929/WhatsApp_Image_2022-03-07_at_13.05.08.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=ffda92cfa18aecc34a865ae1a9ece6f4c441a88890dc404542c99ea6415bd9dd&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c789fe0-e75c-40b4-8d0f-97c555a72929/WhatsApp_Image_2022-03-07_at_13.05.08.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=eec7fe4138fbc3e409f5a703dc7bb9b0199fde8a117f287eeaa6d8f68e1d54dd&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Ruchi Verma",
-    "Content": []
+    "Content": [
+      "I am Ruchi from Kanpur pursuing  graduation from CSJM University.I was the student of Navgurukul and now i am working as a Admission Executive with outreach team."
+    ]
   },
   "3685ea2b-6db7-4354-bed4-2cfdad2011e1": {
     "Association": null,
@@ -825,7 +833,7 @@
     "Bio": "A Software Engineer with a passion of helping others, Co-Founder of Nanhe-Munne Kalakaar and BazaarSutra, Both are Non-Profitable Organizations, Launched to help students finding their true passion, Guiding them through different aspects of career options and Spreading Awareness about Art and Financial Literacy. ",
     "Linkedin": "https://www.linkedin.com/in/prakashag/",
     "Designation": "Code India Fellow",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e743ee47-9381-4a29-bae5-5fa43c6be230/p-me.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=86af686b51ded072ba5bd486272c82ab779f6ca81639a798e82b7021f5bf7f41&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e743ee47-9381-4a29-bae5-5fa43c6be230/p-me.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=efa59df72d51368f1091cc04de896d7c52219c5e94f5639c5ad4c74b1dde1cc5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Prakash Agarwal",
     "Content": [
@@ -840,7 +848,7 @@
     "Bio": null,
     "Linkedin": null,
     "Designation": "Mentor of Graphic Design",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ce72f4db-8e03-416a-a418-8471eecf8789/965A15D2-A5BC-4551-B331-C6267AEC9A5E.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=edcbe17239a364030888bdc336d5ef705b8759f34e66332e4b341d069173096b&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ce72f4db-8e03-416a-a418-8471eecf8789/965A15D2-A5BC-4551-B331-C6267AEC9A5E.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=50dae2aee6a07284ebb15f5e218bce2403d8d064013623dc49f322a986bccc8c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Sachin Sham More",
     "Content": [
@@ -855,7 +863,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/nidhijain1794/",
     "Designation": "Manager - Outreach & Partnerships (Meraki)",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9646b2e9-09b4-4edc-80db-9a6f92966229/nj_linkedin.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=6519800af064d333494cc66609c81b3c94a32c0dc62b8586dd94be5acec4daa1&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9646b2e9-09b4-4edc-80db-9a6f92966229/nj_linkedin.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=7cd3cf485c7a5a6af86be788821d58fa37356b5b07955f78a0be530f5075cdb2&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Nidhi Jain",
     "Content": [
@@ -863,13 +871,13 @@
     ]
   },
   "b73348b3-d91f-4646-a18f-cdb9ab696929": {
-    "Association": null,
+    "Association": "Full-time",
     "Country": "India",
     "Email": "shweta@navgurukul.org",
-    "Bio": "I am from Delhi, working with navgurukul from last one year as an academic associate. Have a keen interest in education and teaching students with new methodologies and also in learning the new pedagogies. Also, have a passion for music, and love to involve in cultural activities. Wanted to travel the whole of India too and explore their culture, food, and music.",
+    "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/shweta-sharma-0a779616a",
     "Designation": "Academic Associate",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/607d3f70-d9c8-4904-a72a-ee534be02eb0/IMG20211002083718.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=70d3db2e3ef30544706dddda142b93cb67ca9b49c5891b78b7d266cb7d8a0b8f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/607d3f70-d9c8-4904-a72a-ee534be02eb0/IMG20211002083718.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=e6b889bb432768f236d405166769bedffc57eaf029152d01c26d037135342f8c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/ShwetaS55274182?t=wOEaxURqlW2wXerBxO8A0Q&s=08",
     "Dhanmala Jamatia": "Shweta Sharma",
     "Content": [
@@ -878,13 +886,13 @@
     ]
   },
   "bff3047e-44fb-4519-88e0-b668fe431962": {
-    "Association": null,
+    "Association": "Not Active",
     "Country": "India",
     "Email": "lakhani.vinay.6377@gmail.com",
-    "Bio": "I\u2019m a Frontend Dev, currently pursuing BCA \ud83c\udf93 and Diving deeper into the realm of web development \ud83d\udcad.",
+    "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/vinay-lakhani-1bab5a1b3/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59df30d3-9f1a-4b55-b635-e0e095629aa4/WhatsApp_Image_2022-03-07_at_2.30.50_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=05eacd99cf11a0f356ae4020b573a66b2b74d72b1925ac1dac77a3c2404e1656&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59df30d3-9f1a-4b55-b635-e0e095629aa4/WhatsApp_Image_2022-03-07_at_2.30.50_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=082b7b712fdb650d0d30762a8291205ade9a947f7221e6db1b4c4d923f75b049&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Vinay Lakhani",
     "Content": [
@@ -911,7 +919,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/aakankshagaur/",
     "Designation": "Culture & Design",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ebf3eade-6cfe-4295-9733-2fc858fdc95a/aakanksha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=f472d80794de41faa5285c144d4cebc6f063617c8801698ddb6f6e952c20fb0f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ebf3eade-6cfe-4295-9733-2fc858fdc95a/aakanksha.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=5c803cee0a5879b638028a780879dc77e234df804b9773915d13c730ed8560c6&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Aakanksha Gaur",
     "Content": [
@@ -925,7 +933,7 @@
     "Bio": null,
     "Linkedin": "https://linkedin.com/in/swnnd",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3a5b642-705e-41ad-a2f2-3134f8499f85/Swanand_Buva.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=a4b560c890831110ed1c1dfb9e7df0d2331fa6c110c159d1d35d5acba3ec9c72&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3a5b642-705e-41ad-a2f2-3134f8499f85/Swanand_Buva.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=b2c1ba08fe46d8e0e7e2d9fe79aec273e1c8388b0fe39db4718ff5e52217f646&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/swnnd",
     "Dhanmala Jamatia": "Swanand Buva",
     "Content": [
@@ -940,7 +948,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/kittiyparmar",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e17adb5-3632-4303-9fa9-92e76f7cbdd6/WhatsApp_Image_2022-03-28_at_9.37.30_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=ea3e9c864940a3939bfb893d5692f120ec7141338a58e254a92d5203e8f7ac18&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e17adb5-3632-4303-9fa9-92e76f7cbdd6/WhatsApp_Image_2022-03-28_at_9.37.30_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=b08b8d5eb91bcaac8496a8f212c2ffca5448639cc89e8739784568d9fa6f836d&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Kittiy Parmar",
     "Content": []
@@ -979,7 +987,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/pratikartik/",
     "Designation": "Frontend Developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d345d54b-142c-4ad5-a915-00c7861bea3a/IMG_20200105_170749_585.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=9c62795aa3218a9896274cf25c9bc8fff679394446284e0d01ed4663b7262b6c&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d345d54b-142c-4ad5-a915-00c7861bea3a/IMG_20200105_170749_585.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=33009facd22f36cf745b2f066fa606b5e3f42886067d06e2edfedefcf2822f49&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/pratikartik",
     "Dhanmala Jamatia": "Kartik Shikhare",
     "Content": [
@@ -993,7 +1001,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/kirithiv-r-949a601b7/",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4a44dbb8-f7d4-42de-8c32-97197094eeae/my1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=c019eff33542f70302258115d133caa572c4dcc285bce57b0e91a05794038318&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4a44dbb8-f7d4-42de-8c32-97197094eeae/my1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=5b2222291e7c7391a81ae2de06c9244352221744a3eba1226e085137cf974659&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Kirithiv",
     "Content": []
@@ -1005,7 +1013,7 @@
     "Bio": "\u201cSometimes it's better to leave something alone, to pause, and that's very true of programming.\" - JoyceWheeler",
     "Linkedin": "http://linkedin.com/in/majji-kishore-ab18a9195",
     "Designation": "Back-end intern ",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bc7b1713-6139-4ec7-95ab-517400993d26/FB_IMG_15742352592403423.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=eb0ae5130c8ad64213fce3bd1335f6db12f920b78bea4b56563300ceff9e97de&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bc7b1713-6139-4ec7-95ab-517400993d26/FB_IMG_15742352592403423.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=f38ebe57bae3ee87bd630d3ec54de3703b246f5344e090a40c52cc603a5866d9&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/Majjikishore1",
     "Dhanmala Jamatia": "Majji Ki",
     "Content": [
@@ -1045,7 +1053,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/nidhianarkat/",
     "Designation": "Co-founder & CEO",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d92a142-9e5a-4130-96ac-1f2c35f4005f/Nidhi_-_pic_in_the_red_jacket.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=deaa8b8fabf11cc6c50a307ec0b9c244003a95272ad8c3383e6d64898c6a7987&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d92a142-9e5a-4130-96ac-1f2c35f4005f/Nidhi_-_pic_in_the_red_jacket.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=263f7608c6adaf76ef1db71824a90d2a194067a61f262cebbeb2ac129a249a5a&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Nidhi Anarkat",
     "Content": [
@@ -1063,7 +1071,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/reena-kumari-0b3211210/",
     "Designation": "Academic Associate",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b81151f-deca-470f-9a6e-dffc7b7c23ee/new_me.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=644dd365213abe4aafea51f80af53246c326e54700cfcff62181af8d1a593728&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b81151f-deca-470f-9a6e-dffc7b7c23ee/new_me.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=965dd320ac851d6035ddf37d172418b3acae70fed5b57af4453e0681efd3113f&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/Reena20Kumari",
     "Dhanmala Jamatia": "Reena Kumari",
     "Content": []
@@ -1075,7 +1083,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/feed/",
     "Designation": "Asst. Manager Talent Acquisition",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3660e716-e4ba-49bd-887f-d42f621b35cd/WhatsApp_Image_2022-02-23_at_2.29.07_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=46d9be1c6a710334cd344bef905bfebbf54d9ed12b1ffd6d0dccea62124a5abf&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3660e716-e4ba-49bd-887f-d42f621b35cd/WhatsApp_Image_2022-02-23_at_2.29.07_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=1628484e6824f3b1f0cea5cb28a825815af71c022de217bbb26e816719d90c89&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Areena Varghese",
     "Content": [
@@ -1089,7 +1097,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/anandpatel504/",
     "Designation": "Software Engineer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7005f62b-9333-491e-adc6-3d31de6aab50/Anand.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=79a4e751264907a5c0b649929cf9c922d26adcff6715d4266129b48914075527&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7005f62b-9333-491e-adc6-3d31de6aab50/Anand.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=0e0d8cd6d927d043d49b16d4ac3f83168ee69ceae116e5725725180c21d2ba78&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/anandpatel504",
     "Dhanmala Jamatia": "Anand Patel",
     "Content": [
@@ -1103,7 +1111,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/richakhobragade",
     "Designation": "Program Manager, Pune Campus",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/353f6f29-e801-474a-bbd9-af857b0fa735/IMG20210728200809.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=a1698fe8d25258242bbb0ec0a5d16d40ab86594b8142a5385899102e45a07142&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/353f6f29-e801-474a-bbd9-af857b0fa735/IMG20210728200809.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114245Z&X-Amz-Expires=3600&X-Amz-Signature=c5957cfd148d1555c8bc3ffa65233c240695f109f7b662ae340bc387da66a4e7&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Richa Khobragade",
     "Content": [
@@ -1117,7 +1125,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/riya-singh-8b54441b3",
     "Designation": null,
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/85554347-67dd-48d7-acf3-51b9a8b49be9/Screenshot_2022_0212_105257.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=366ce0d33afcbace42c2f0939d5ab08f5789a60d5be069eba8dce9c5a046fe93&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/85554347-67dd-48d7-acf3-51b9a8b49be9/Screenshot_2022_0212_105257.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=0a412e843a79931f2e29d6ddccc4fa2f6c637203ed71f6fc4578d798f2e1cb92&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Riya Singh",
     "Content": []
@@ -1141,7 +1149,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/poonambagh/",
     "Designation": "Frontend Developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b32b9477-c601-4d63-8ae3-42c212bc2e77/Poonam.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=6b0e992ac9de8120e1aa8e1404680e6566c39bb34abad194caee9d1cda6ab5aa&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b32b9477-c601-4d63-8ae3-42c212bc2e77/Poonam.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=9981df0c50a28f4c74ff8ac4c2ef147af046d78b44c05c23e95d1e96a6ff2218&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Poonam Singh Bagh",
     "Content": [
@@ -1156,7 +1164,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/pooja-mahanor-9a0021182/",
     "Designation": "Management Trainee",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3646361-a240-4634-8bcf-2241e7b1175a/IMG-20210207-WA0072.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=28e4b646ad914426fca8d76dda283383a9804c201603e3f91c8bccbb0a89083f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3646361-a240-4634-8bcf-2241e7b1175a/IMG-20210207-WA0072.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=c63b68541098197192f769884e7641b2350344547f49438a04f45ad9968a81aa&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "https://twitter.com/MahanorPooja",
     "Dhanmala Jamatia": "Pooja Mahanor",
     "Content": [
@@ -1170,7 +1178,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/komal-ahire-b34009182/",
     "Designation": "Frontend Developer",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e5a338e3-d0ac-4509-815d-58ed01df1a81/WhatsApp_Image_2022-08-10_at_10.15.30_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=1e52c72530c49b67294776196e2501e20a0b326c61cc586add124630b4208498&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e5a338e3-d0ac-4509-815d-58ed01df1a81/WhatsApp_Image_2022-08-10_at_10.15.30_AM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=bf44845225daa40f7e079f123c26a5fea1875d5574e46f2133ef9e8f1cf07be5&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Komal Ahire",
     "Content": [
@@ -1185,7 +1193,7 @@
     "Bio": null,
     "Linkedin": "linkedin.com/in/rupali-singh-1958b0200",
     "Designation": "Community Manager,Sarjapur Campus",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/34a47257-bb7f-4e3e-8869-5dcf232ed3de/rupali.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=e7c86b05b84b2b98653f924086fd985f1cf35b44ff19dccfa80115bfa78ca4af&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/34a47257-bb7f-4e3e-8869-5dcf232ed3de/rupali.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=491bb920dcd5f8c742279b43c2678b92d373ced327b61619e949367d6e78a3fb&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": "@RupaliS1598",
     "Dhanmala Jamatia": "Rupali Singh",
     "Content": [
@@ -1199,7 +1207,7 @@
     "Bio": null,
     "Linkedin": "https://www.linkedin.com/in/perfectlypixel/",
     "Designation": "UI/UX Deisgner, Meraki",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7714a9cb-42f0-4ff9-9638-8f16979b978d/photo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=52f0136670995ee2c0226a4c40d13e6e1132f4feaf716fca0c9437a438f0415f&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7714a9cb-42f0-4ff9-9638-8f16979b978d/photo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=26430254c15feb39a6d48553e202f6271c9de191cc967f04f05c99f96206354c&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Narendra Singh",
     "Content": [
@@ -1214,7 +1222,7 @@
     "Bio": null,
     "Linkedin": "linkedin.com/in/dhanshri-sonwane-341830219",
     "Designation": "Tech Associate (Android)",
-    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/efa3cb92-04f7-4c9b-9169-fde1c7d7a2f3/WhatsApp_Image_2022-03-06_at_7.03.36_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T113412Z&X-Amz-Expires=3600&X-Amz-Signature=717f2122605f1d211b1a7fe4059396b7fec62f24e15db2f91c18a4e0d12272d8&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "Photo": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/efa3cb92-04f7-4c9b-9169-fde1c7d7a2f3/WhatsApp_Image_2022-03-06_at_7.03.36_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230426T114246Z&X-Amz-Expires=3600&X-Amz-Signature=ea518670600f19271749949e3b4036f458c569bf1254f3efb77cab597bb00be2&X-Amz-SignedHeaders=host&x-id=GetObject",
     "Twitter": null,
     "Dhanmala Jamatia": "Dhanshri Sonwane",
     "Content": [
